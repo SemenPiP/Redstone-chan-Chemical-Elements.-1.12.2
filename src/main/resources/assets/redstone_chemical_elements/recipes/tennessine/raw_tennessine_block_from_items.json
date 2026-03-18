@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "redstone_chemical_elements:tennessine/raw_tennessine"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:tennessine/raw_tennessine_block"
+  }
+}

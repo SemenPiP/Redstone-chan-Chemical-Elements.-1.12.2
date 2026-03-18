@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:silicon/silicon_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:silicon/silicon_ingot",
+    "count": 9
+  }
+}

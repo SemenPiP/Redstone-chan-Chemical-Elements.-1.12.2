@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:gallium/raw_gallium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:gallium/raw_gallium",
+    "count": 9
+  }
+}

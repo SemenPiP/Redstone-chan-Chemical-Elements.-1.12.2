@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:phosphorus/raw_phosphorus_block"
+    }
+  }
+}

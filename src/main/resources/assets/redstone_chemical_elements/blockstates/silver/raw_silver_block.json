@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:silver/raw_silver_block"
+    }
+  }
+}

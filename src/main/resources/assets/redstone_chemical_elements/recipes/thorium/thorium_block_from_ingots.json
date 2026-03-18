@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "redstone_chemical_elements:thorium/thorium_ingot"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:thorium/thorium_block"
+  }
+}

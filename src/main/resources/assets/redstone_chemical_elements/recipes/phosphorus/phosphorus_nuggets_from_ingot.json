@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:phosphorus/phosphorus_ingot"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:phosphorus/phosphorus_nugget",
+    "count": 9
+  }
+}

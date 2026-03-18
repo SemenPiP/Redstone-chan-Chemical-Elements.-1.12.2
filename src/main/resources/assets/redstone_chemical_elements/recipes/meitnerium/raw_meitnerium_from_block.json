@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:meitnerium/raw_meitnerium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:meitnerium/raw_meitnerium",
+    "count": 9
+  }
+}

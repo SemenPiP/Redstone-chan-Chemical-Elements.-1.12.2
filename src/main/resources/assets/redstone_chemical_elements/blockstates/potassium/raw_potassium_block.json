@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:potassium/raw_potassium_block"
+    }
+  }
+}

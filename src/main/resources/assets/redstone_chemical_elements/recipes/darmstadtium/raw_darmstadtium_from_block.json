@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:darmstadtium/raw_darmstadtium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:darmstadtium/raw_darmstadtium",
+    "count": 9
+  }
+}

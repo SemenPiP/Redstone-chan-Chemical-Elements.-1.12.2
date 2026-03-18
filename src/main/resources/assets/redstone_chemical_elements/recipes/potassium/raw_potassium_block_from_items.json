@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "redstone_chemical_elements:potassium/raw_potassium"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:potassium/raw_potassium_block"
+  }
+}

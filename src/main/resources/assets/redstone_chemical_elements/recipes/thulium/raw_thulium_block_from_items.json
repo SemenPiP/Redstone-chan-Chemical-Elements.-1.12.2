@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "redstone_chemical_elements:thulium/raw_thulium"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:thulium/raw_thulium_block"
+  }
+}

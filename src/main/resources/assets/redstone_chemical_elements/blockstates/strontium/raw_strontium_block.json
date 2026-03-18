@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:strontium/raw_strontium_block"
+    }
+  }
+}

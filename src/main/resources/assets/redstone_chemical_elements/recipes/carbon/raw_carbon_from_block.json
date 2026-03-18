@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:carbon/raw_carbon_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:carbon/raw_carbon",
+    "count": 9
+  }
+}

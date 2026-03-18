@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:einsteinium/raw_einsteinium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:einsteinium/raw_einsteinium",
+    "count": 9
+  }
+}

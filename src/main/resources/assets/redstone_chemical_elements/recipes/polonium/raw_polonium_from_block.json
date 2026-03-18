@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:polonium/raw_polonium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:polonium/raw_polonium",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:strontium/raw_strontium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:strontium/raw_strontium",
+    "count": 9
+  }
+}

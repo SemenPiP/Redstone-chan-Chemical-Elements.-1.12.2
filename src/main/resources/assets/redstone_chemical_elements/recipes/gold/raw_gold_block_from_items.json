@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "redstone_chemical_elements:gold/raw_gold"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:gold/raw_gold_block"
+  }
+}

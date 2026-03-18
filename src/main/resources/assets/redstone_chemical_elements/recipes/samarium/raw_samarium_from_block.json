@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:samarium/raw_samarium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:samarium/raw_samarium",
+    "count": 9
+  }
+}

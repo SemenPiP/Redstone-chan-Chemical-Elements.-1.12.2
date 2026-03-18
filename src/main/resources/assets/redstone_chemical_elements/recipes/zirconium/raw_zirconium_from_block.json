@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:zirconium/raw_zirconium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:zirconium/raw_zirconium",
+    "count": 9
+  }
+}

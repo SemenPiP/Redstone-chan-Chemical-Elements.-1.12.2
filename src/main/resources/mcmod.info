@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "redstone_chemical_elements",
+    "name": "Redstone-chan Chemical Elements",
+    "description": "Chemical elements and ores backported to Minecraft 1.12.2.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["chinaex123"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

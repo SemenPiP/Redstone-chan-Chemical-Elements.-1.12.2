@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "redstone_chemical_elements:technetium/raw_technetium"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:technetium/raw_technetium_block"
+  }
+}

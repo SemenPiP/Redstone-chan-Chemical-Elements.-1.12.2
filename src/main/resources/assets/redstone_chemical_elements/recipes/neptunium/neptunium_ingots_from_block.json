@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:neptunium/neptunium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:neptunium/neptunium_ingot",
+    "count": 9
+  }
+}

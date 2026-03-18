@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:tantalum/raw_tantalum_block"
+    }
+  }
+}

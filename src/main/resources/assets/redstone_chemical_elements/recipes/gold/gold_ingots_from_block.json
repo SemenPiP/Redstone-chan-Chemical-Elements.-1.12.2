@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:gold/gold_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:gold/gold_ingot",
+    "count": 9
+  }
+}

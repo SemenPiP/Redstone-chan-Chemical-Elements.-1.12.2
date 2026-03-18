@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:lutetium/lutetium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:lutetium/lutetium_ingot",
+    "count": 9
+  }
+}

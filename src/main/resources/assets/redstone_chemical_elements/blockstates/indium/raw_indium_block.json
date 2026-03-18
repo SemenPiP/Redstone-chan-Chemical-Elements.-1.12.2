@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:indium/raw_indium_block"
+    }
+  }
+}

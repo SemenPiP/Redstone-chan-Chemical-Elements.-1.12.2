@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:thallium/raw_thallium_block"
+    }
+  }
+}

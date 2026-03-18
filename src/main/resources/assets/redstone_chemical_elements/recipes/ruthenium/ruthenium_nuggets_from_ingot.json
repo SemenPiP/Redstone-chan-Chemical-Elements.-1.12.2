@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:ruthenium/ruthenium_ingot"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:ruthenium/ruthenium_nugget",
+    "count": 9
+  }
+}

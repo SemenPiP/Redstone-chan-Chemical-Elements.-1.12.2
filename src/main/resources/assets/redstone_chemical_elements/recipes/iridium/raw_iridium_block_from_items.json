@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "redstone_chemical_elements:iridium/raw_iridium"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:iridium/raw_iridium_block"
+  }
+}

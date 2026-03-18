@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:bohrium/raw_bohrium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:bohrium/raw_bohrium",
+    "count": 9
+  }
+}

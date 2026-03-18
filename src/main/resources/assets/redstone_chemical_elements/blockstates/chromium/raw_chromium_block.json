@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:chromium/raw_chromium_block"
+    }
+  }
+}

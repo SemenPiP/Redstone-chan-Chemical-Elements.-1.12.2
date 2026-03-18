@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "redstone_chemical_elements:dysprosium/dysprosium_ingot"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:dysprosium/dysprosium_block"
+  }
+}

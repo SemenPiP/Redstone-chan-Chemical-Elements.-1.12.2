@@ -1,0 +1,8 @@
+GitHub upload quick steps:
+
+git init
+git branch -M main
+git add .
+git commit -m "Initial Forge 1.12.2 source import"
+git remote add origin <YOUR_GITHUB_REPO_URL>
+git push -u origin main

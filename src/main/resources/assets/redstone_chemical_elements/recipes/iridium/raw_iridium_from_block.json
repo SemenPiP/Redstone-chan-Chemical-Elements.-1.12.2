@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:iridium/raw_iridium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:iridium/raw_iridium",
+    "count": 9
+  }
+}

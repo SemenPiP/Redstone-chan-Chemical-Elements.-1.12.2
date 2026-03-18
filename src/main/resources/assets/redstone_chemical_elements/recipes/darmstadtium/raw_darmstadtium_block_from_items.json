@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "redstone_chemical_elements:darmstadtium/raw_darmstadtium"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:darmstadtium/raw_darmstadtium_block"
+  }
+}

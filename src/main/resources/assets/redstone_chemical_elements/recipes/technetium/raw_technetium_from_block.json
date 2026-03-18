@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:technetium/raw_technetium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:technetium/raw_technetium",
+    "count": 9
+  }
+}

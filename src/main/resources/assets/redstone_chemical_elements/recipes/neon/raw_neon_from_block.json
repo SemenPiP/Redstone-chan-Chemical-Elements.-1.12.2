@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:neon/raw_neon_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:neon/raw_neon",
+    "count": 9
+  }
+}

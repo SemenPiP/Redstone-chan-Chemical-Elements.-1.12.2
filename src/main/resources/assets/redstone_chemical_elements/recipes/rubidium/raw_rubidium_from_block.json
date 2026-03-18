@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:rubidium/raw_rubidium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:rubidium/raw_rubidium",
+    "count": 9
+  }
+}

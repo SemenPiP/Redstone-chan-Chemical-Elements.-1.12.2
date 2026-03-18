@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "redstone_chemical_elements:einsteinium/raw_einsteinium"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:einsteinium/raw_einsteinium_block"
+  }
+}

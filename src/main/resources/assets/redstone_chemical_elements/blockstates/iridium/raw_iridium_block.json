@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:iridium/raw_iridium_block"
+    }
+  }
+}

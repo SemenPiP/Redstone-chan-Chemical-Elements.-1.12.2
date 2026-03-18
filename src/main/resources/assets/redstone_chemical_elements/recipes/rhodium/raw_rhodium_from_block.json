@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:rhodium/raw_rhodium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:rhodium/raw_rhodium",
+    "count": 9
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:neptunium/raw_neptunium_block"
+    }
+  }
+}

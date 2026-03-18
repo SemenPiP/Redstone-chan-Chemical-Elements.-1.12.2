@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:flerovium/raw_flerovium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:flerovium/raw_flerovium",
+    "count": 9
+  }
+}

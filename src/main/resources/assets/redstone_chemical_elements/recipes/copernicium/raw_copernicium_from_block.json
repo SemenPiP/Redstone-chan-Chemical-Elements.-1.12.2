@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:copernicium/raw_copernicium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:copernicium/raw_copernicium",
+    "count": 9
+  }
+}

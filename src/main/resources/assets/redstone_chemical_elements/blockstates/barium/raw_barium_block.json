@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:barium/raw_barium_block"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:bohrium/raw_bohrium_block"
+    }
+  }
+}

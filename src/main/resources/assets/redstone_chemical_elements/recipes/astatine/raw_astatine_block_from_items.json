@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "redstone_chemical_elements:astatine/raw_astatine"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:astatine/raw_astatine_block"
+  }
+}

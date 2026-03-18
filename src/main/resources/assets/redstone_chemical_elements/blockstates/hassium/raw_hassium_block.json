@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:hassium/raw_hassium_block"
+    }
+  }
+}

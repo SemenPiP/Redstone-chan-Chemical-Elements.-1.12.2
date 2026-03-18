@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:krypton/raw_krypton_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:krypton/raw_krypton",
+    "count": 9
+  }
+}

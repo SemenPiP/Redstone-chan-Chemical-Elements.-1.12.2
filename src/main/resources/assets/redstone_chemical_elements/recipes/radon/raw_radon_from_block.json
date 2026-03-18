@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:radon/raw_radon_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:radon/raw_radon",
+    "count": 9
+  }
+}

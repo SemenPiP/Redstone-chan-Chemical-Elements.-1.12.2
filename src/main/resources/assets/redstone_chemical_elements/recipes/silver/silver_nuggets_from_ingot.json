@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:silver/silver_ingot"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:silver/silver_nugget",
+    "count": 9
+  }
+}

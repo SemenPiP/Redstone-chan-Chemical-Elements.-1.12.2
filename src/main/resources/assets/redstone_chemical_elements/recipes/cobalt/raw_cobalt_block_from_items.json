@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "redstone_chemical_elements:cobalt/raw_cobalt"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:cobalt/raw_cobalt_block"
+  }
+}

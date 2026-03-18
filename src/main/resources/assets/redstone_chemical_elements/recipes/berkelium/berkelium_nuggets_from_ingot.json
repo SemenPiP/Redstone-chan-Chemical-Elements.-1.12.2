@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:berkelium/berkelium_ingot"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:berkelium/berkelium_nugget",
+    "count": 9
+  }
+}

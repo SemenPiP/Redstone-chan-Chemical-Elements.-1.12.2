@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:cobalt/raw_cobalt_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:cobalt/raw_cobalt",
+    "count": 9
+  }
+}

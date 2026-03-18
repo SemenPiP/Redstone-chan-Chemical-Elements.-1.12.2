@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "redstone_chemical_elements:titanium/raw_titanium"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:titanium/raw_titanium_block"
+  }
+}

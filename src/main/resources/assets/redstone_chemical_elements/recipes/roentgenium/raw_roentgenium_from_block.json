@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:roentgenium/raw_roentgenium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:roentgenium/raw_roentgenium",
+    "count": 9
+  }
+}

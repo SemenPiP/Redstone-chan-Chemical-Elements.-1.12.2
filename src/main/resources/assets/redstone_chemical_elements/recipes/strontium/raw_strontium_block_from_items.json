@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "redstone_chemical_elements:strontium/raw_strontium"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:strontium/raw_strontium_block"
+  }
+}

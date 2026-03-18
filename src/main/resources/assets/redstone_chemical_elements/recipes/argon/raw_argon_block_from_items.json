@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "redstone_chemical_elements:argon/raw_argon"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:argon/raw_argon_block"
+  }
+}

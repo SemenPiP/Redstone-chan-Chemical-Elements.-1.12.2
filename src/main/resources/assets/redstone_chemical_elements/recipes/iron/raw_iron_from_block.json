@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:iron/raw_iron_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:iron/raw_iron",
+    "count": 9
+  }
+}

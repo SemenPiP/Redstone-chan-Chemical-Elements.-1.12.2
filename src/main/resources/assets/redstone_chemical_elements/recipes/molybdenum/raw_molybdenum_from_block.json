@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:molybdenum/raw_molybdenum_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:molybdenum/raw_molybdenum",
+    "count": 9
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:carbon/raw_carbon_block"
+    }
+  }
+}

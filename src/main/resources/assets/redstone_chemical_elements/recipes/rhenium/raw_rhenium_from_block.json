@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:rhenium/raw_rhenium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:rhenium/raw_rhenium",
+    "count": 9
+  }
+}

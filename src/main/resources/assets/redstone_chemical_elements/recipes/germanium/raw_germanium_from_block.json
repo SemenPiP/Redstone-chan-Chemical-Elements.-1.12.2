@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:germanium/raw_germanium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:germanium/raw_germanium",
+    "count": 9
+  }
+}

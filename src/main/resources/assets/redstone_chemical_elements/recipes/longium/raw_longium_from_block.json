@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:longium/raw_longium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:longium/raw_longium",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:gadolinium/raw_gadolinium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:gadolinium/raw_gadolinium",
+    "count": 9
+  }
+}

@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "redstone_chemical_elements:gallium/raw_gallium"
+    }
+  },
+  "result": {
+    "item": "redstone_chemical_elements:gallium/raw_gallium_block"
+  }
+}

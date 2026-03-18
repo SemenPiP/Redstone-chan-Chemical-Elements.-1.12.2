@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:neodymium/raw_neodymium_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:neodymium/raw_neodymium",
+    "count": 9
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:californium/raw_californium_block"
+    }
+  }
+}

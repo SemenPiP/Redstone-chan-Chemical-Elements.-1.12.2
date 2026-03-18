@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstone_chemical_elements:gold/raw_gold_block"
+    }
+  ],
+  "result": {
+    "item": "redstone_chemical_elements:gold/raw_gold",
+    "count": 9
+  }
+}
