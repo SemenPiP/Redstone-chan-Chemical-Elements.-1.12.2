@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "variant=0": {
+      "model": "redstone_chemical_elements:derived/bronze/raw_bronze_block"
+    },
+    "variant=1": {
+      "model": "redstone_chemical_elements:derived/constantan/raw_constantan_block"
+    },
+    "variant=2": {
+      "model": "redstone_chemical_elements:derived/diamond/raw_diamond_block"
+    },
+    "variant=3": {
+      "model": "redstone_chemical_elements:derived/electrum/raw_electrum_block"
+    },
+    "variant=4": {
+      "model": "redstone_chemical_elements:derived/emerald/raw_emerald_block"
+    },
+    "variant=5": {
+      "model": "redstone_chemical_elements:derived/enderium/raw_enderium_block"
+    },
+    "variant=6": {
+      "model": "redstone_chemical_elements:derived/invar/raw_invar_block"
+    },
+    "variant=7": {
+      "model": "redstone_chemical_elements:derived/lumium/raw_lumium_block"
+    },
+    "variant=8": {
+      "model": "redstone_chemical_elements:derived/redstone/raw_redstone_block"
+    },
+    "variant=9": {
+      "model": "redstone_chemical_elements:derived/signalum/raw_signalum_block"
+    },
+    "variant=10": {
+      "model": "redstone_chemical_elements:derived/steel/raw_steel_block"
+    },
+    "variant=11": {
+      "model": "redstone_chemical_elements:derived/thaumium/raw_thaumium_block"
+    },
+    "variant=12": {
+      "model": "redstone_chemical_elements:derived/void/raw_void_block"
+    },
+    "variant=13": {
+      "model": "redstone_chemical_elements:derived/manasteel/raw_manasteel_block"
+    },
+    "variant=14": {
+      "model": "redstone_chemical_elements:derived/elementium/raw_elementium_block"
+    },
+    "variant=15": {
+      "model": "redstone_chemical_elements:derived/terrasteel/raw_terrasteel_block"
+    }
+  }
+}

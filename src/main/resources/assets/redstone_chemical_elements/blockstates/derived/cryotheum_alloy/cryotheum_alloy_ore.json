@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/cryotheum_alloy/cryotheum_alloy_ore"
+    }
+  }
+}

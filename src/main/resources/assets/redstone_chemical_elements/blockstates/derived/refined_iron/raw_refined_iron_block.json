@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/refined_iron/raw_refined_iron_block"
+    }
+  }
+}

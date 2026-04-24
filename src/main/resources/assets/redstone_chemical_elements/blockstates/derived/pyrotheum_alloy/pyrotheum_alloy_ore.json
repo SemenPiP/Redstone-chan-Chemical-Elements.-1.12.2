@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/pyrotheum_alloy/pyrotheum_alloy_ore"
+    }
+  }
+}

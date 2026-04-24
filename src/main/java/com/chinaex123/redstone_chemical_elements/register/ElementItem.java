@@ -55,6 +55,10 @@ public final class ElementItem {
         return item;
     }
 
+    private static boolean isStorageItemPath(String path) {
+        return "gas_cylinder".equals(path) || path.endsWith("_cylinder");
+    }
+
     private static String translationKey(String path) {
         return RedstonechanChemicalElements.MODID + "." + path.replace('/', '.');
     }
@@ -114,7 +118,9 @@ public final class ElementItem {
             this.rarity = rarity;
             setRegistryName(RedstonechanChemicalElements.MODID, path);
             setTranslationKey(translationKey(path));
-            setCreativeTab(ModCreativeTabs.ELEMENT_ITEM_TAB);
+            if (!isStorageItemPath(path)) {
+                setCreativeTab(ModCreativeTabs.ELEMENT_ITEM_TAB);
+            }
         }
 
         @Override

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/rose_gold/raw_rose_gold_block"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "redstone_chemical_elements:blocks/derived/cryo_circuit_alloy/cryo_circuit_alloy_block"
+  }
+}

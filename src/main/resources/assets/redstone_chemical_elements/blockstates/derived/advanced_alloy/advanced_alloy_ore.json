@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/advanced_alloy/advanced_alloy_ore"
+    }
+  }
+}

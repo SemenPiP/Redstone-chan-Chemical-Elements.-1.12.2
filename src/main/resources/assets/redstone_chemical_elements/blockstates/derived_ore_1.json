@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "variant=0": {
+      "model": "redstone_chemical_elements:derived/refined_iron/refined_iron_ore"
+    },
+    "variant=1": {
+      "model": "redstone_chemical_elements:derived/advanced_alloy/advanced_alloy_ore"
+    },
+    "variant=2": {
+      "model": "redstone_chemical_elements:derived/iridium_alloy/iridium_alloy_ore"
+    },
+    "variant=3": {
+      "model": "redstone_chemical_elements:derived/brass/brass_ore"
+    },
+    "variant=4": {
+      "model": "redstone_chemical_elements:derived/red_alloy/red_alloy_ore"
+    },
+    "variant=5": {
+      "model": "redstone_chemical_elements:derived/construction_alloy/construction_alloy_ore"
+    },
+    "variant=6": {
+      "model": "redstone_chemical_elements:derived/conductive_iron/conductive_iron_ore"
+    },
+    "variant=7": {
+      "model": "redstone_chemical_elements:derived/electrical_steel/electrical_steel_ore"
+    },
+    "variant=8": {
+      "model": "redstone_chemical_elements:derived/dark_steel/dark_steel_ore"
+    },
+    "variant=9": {
+      "model": "redstone_chemical_elements:derived/pulsating_iron/pulsating_iron_ore"
+    },
+    "variant=10": {
+      "model": "redstone_chemical_elements:derived/energetic_alloy/energetic_alloy_ore"
+    },
+    "variant=11": {
+      "model": "redstone_chemical_elements:derived/vibrant_alloy/vibrant_alloy_ore"
+    },
+    "variant=12": {
+      "model": "redstone_chemical_elements:derived/soularium/soularium_ore"
+    },
+    "variant=13": {
+      "model": "redstone_chemical_elements:derived/end_steel/end_steel_ore"
+    },
+    "variant=14": {
+      "model": "redstone_chemical_elements:derived/void_brass/void_brass_ore"
+    },
+    "variant=15": {
+      "model": "redstone_chemical_elements:derived/void_metal/void_metal_ore"
+    }
+  }
+}

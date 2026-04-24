@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "redstone_chemical_elements:blocks/derived/stellar_alloy/raw_stellar_alloy_block"
+  }
+}

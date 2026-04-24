@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "redstone_chemical_elements:blocks/derived/iridium_alloy/raw_iridium_alloy_block"
+  }
+}

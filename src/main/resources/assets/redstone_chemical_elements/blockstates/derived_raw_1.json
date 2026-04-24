@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "variant=0": {
+      "model": "redstone_chemical_elements:derived/refined_iron/raw_refined_iron_block"
+    },
+    "variant=1": {
+      "model": "redstone_chemical_elements:derived/advanced_alloy/raw_advanced_alloy_block"
+    },
+    "variant=2": {
+      "model": "redstone_chemical_elements:derived/iridium_alloy/raw_iridium_alloy_block"
+    },
+    "variant=3": {
+      "model": "redstone_chemical_elements:derived/brass/raw_brass_block"
+    },
+    "variant=4": {
+      "model": "redstone_chemical_elements:derived/red_alloy/raw_red_alloy_block"
+    },
+    "variant=5": {
+      "model": "redstone_chemical_elements:derived/construction_alloy/raw_construction_alloy_block"
+    },
+    "variant=6": {
+      "model": "redstone_chemical_elements:derived/conductive_iron/raw_conductive_iron_block"
+    },
+    "variant=7": {
+      "model": "redstone_chemical_elements:derived/electrical_steel/raw_electrical_steel_block"
+    },
+    "variant=8": {
+      "model": "redstone_chemical_elements:derived/dark_steel/raw_dark_steel_block"
+    },
+    "variant=9": {
+      "model": "redstone_chemical_elements:derived/pulsating_iron/raw_pulsating_iron_block"
+    },
+    "variant=10": {
+      "model": "redstone_chemical_elements:derived/energetic_alloy/raw_energetic_alloy_block"
+    },
+    "variant=11": {
+      "model": "redstone_chemical_elements:derived/vibrant_alloy/raw_vibrant_alloy_block"
+    },
+    "variant=12": {
+      "model": "redstone_chemical_elements:derived/soularium/raw_soularium_block"
+    },
+    "variant=13": {
+      "model": "redstone_chemical_elements:derived/end_steel/raw_end_steel_block"
+    },
+    "variant=14": {
+      "model": "redstone_chemical_elements:derived/void_brass/raw_void_brass_block"
+    },
+    "variant=15": {
+      "model": "redstone_chemical_elements:derived/void_metal/raw_void_metal_block"
+    }
+  }
+}

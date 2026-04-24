@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_ore"
+    }
+  }
+}

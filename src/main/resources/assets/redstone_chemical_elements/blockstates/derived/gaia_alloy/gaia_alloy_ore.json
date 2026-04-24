@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/gaia_alloy/gaia_alloy_ore"
+    }
+  }
+}

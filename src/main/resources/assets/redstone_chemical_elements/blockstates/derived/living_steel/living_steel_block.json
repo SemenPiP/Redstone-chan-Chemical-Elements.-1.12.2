@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/living_steel/living_steel_block"
+    }
+  }
+}

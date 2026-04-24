@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/advanced_alloy/raw_advanced_alloy_block"
+    }
+  }
+}

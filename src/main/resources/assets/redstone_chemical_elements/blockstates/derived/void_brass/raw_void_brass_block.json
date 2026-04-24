@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/void_brass/raw_void_brass_block"
+    }
+  }
+}

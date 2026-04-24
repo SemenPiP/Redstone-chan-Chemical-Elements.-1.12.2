@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "variant=0": {
+      "model": "redstone_chemical_elements:derived/runic_alloy/runic_alloy_block"
+    },
+    "variant=1": {
+      "model": "redstone_chemical_elements:derived/verdant_alloy/verdant_alloy_block"
+    },
+    "variant=2": {
+      "model": "redstone_chemical_elements:derived/living_steel/living_steel_block"
+    },
+    "variant=3": {
+      "model": "redstone_chemical_elements:derived/gaia_alloy/gaia_alloy_block"
+    },
+    "variant=4": {
+      "model": "redstone_chemical_elements:derived/rose_gold/rose_gold_block"
+    },
+    "variant=5": {
+      "model": "redstone_chemical_elements:derived/reactor_alloy/reactor_alloy_block"
+    },
+    "variant=6": {
+      "model": "redstone_chemical_elements:derived/machine_steel/machine_steel_block"
+    },
+    "variant=7": {
+      "model": "redstone_chemical_elements:derived/pyrotheum_alloy/pyrotheum_alloy_block"
+    },
+    "variant=8": {
+      "model": "redstone_chemical_elements:derived/cryotheum_alloy/cryotheum_alloy_block"
+    },
+    "variant=9": {
+      "model": "redstone_chemical_elements:derived/stellar_alloy/stellar_alloy_block"
+    },
+    "variant=10": {
+      "model": "redstone_chemical_elements:derived/quantum_alloy/quantum_alloy_block"
+    },
+    "variant=11": {
+      "model": "redstone_chemical_elements:derived/fluxed_electrum/fluxed_electrum_block"
+    },
+    "variant=12": {
+      "model": "redstone_chemical_elements:derived/resonant_enderium/resonant_enderium_block"
+    },
+    "variant=13": {
+      "model": "redstone_chemical_elements:derived/photonic_brass/photonic_brass_block"
+    },
+    "variant=14": {
+      "model": "redstone_chemical_elements:derived/circuit_steel/circuit_steel_block"
+    },
+    "variant=15": {
+      "model": "redstone_chemical_elements:derived/neutron_alloy/neutron_alloy_block"
+    }
+  }
+}

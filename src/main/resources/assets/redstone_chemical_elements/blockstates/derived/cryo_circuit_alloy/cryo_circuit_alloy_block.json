@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/cryo_circuit_alloy/cryo_circuit_alloy_block"
+    }
+  }
+}

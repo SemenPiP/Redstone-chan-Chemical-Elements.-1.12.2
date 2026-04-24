@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "redstone_chemical_elements:items/derived/reactor_alloy/reactor_alloy_wire"
+  }
+}

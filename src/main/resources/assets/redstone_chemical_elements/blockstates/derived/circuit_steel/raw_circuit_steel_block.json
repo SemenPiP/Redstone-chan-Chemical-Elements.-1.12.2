@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/circuit_steel/raw_circuit_steel_block"
+    }
+  }
+}
