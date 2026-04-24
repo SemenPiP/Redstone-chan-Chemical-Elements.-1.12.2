@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/reactor_alloy/reactor_alloy_ore"
+    }
+  }
+}

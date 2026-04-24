@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "redstone_chemical_elements:blocks/derived/arcane_machine_alloy/raw_arcane_machine_alloy_block"
+  }
+}

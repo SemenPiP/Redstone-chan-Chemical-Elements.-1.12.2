@@ -1,0 +1,4008 @@
+{
+  "materials": [
+    {
+      "slug": "bronze",
+      "englishName": "Bronze",
+      "chineseName": "青铜",
+      "color": "#8E695C",
+      "template": "brass",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1325,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "bronze_dust",
+          "englishName": "Bronze Dust",
+          "chineseName": "青铜粉末"
+        },
+        {
+          "name": "bronze_gear",
+          "englishName": "Bronze Gear",
+          "chineseName": "青铜齿轮"
+        },
+        {
+          "name": "bronze_ingot",
+          "englishName": "Bronze Ingot",
+          "chineseName": "青铜锭"
+        },
+        {
+          "name": "bronze_nugget",
+          "englishName": "Bronze Nugget",
+          "chineseName": "青铜粒"
+        },
+        {
+          "name": "bronze_plate",
+          "englishName": "Bronze Plate",
+          "chineseName": "青铜板"
+        },
+        {
+          "name": "bronze_rod",
+          "englishName": "Bronze Rod",
+          "chineseName": "青铜杆"
+        },
+        {
+          "name": "bronze_wire",
+          "englishName": "Bronze Wire",
+          "chineseName": "青铜线"
+        },
+        {
+          "name": "crushed_raw_bronze",
+          "englishName": "Crushed Raw Bronze",
+          "chineseName": "粉碎的粗青铜"
+        },
+        {
+          "name": "raw_bronze",
+          "englishName": "Raw Bronze",
+          "chineseName": "粗青铜"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "bronze_block",
+          "englishName": "Bronze Block",
+          "chineseName": "青铜块"
+        },
+        {
+          "name": "bronze_ore",
+          "englishName": "Bronze Ore",
+          "chineseName": "青铜矿石"
+        },
+        {
+          "name": "raw_bronze_block",
+          "englishName": "Raw Bronze Block",
+          "chineseName": "粗青铜块"
+        }
+      ],
+      "fluidColor": "#32221D"
+    },
+    {
+      "slug": "constantan",
+      "englishName": "Constantan",
+      "chineseName": "康铜",
+      "color": "#8B7562",
+      "template": "brass",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1325,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "constantan_dust",
+          "englishName": "Constantan Dust",
+          "chineseName": "康铜粉末"
+        },
+        {
+          "name": "constantan_gear",
+          "englishName": "Constantan Gear",
+          "chineseName": "康铜齿轮"
+        },
+        {
+          "name": "constantan_ingot",
+          "englishName": "Constantan Ingot",
+          "chineseName": "康铜锭"
+        },
+        {
+          "name": "constantan_nugget",
+          "englishName": "Constantan Nugget",
+          "chineseName": "康铜粒"
+        },
+        {
+          "name": "constantan_plate",
+          "englishName": "Constantan Plate",
+          "chineseName": "康铜板"
+        },
+        {
+          "name": "constantan_rod",
+          "englishName": "Constantan Rod",
+          "chineseName": "康铜杆"
+        },
+        {
+          "name": "constantan_wire",
+          "englishName": "Constantan Wire",
+          "chineseName": "康铜线"
+        },
+        {
+          "name": "crushed_raw_constantan",
+          "englishName": "Crushed Raw Constantan",
+          "chineseName": "粉碎的粗康铜"
+        },
+        {
+          "name": "raw_constantan",
+          "englishName": "Raw Constantan",
+          "chineseName": "粗康铜"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "constantan_block",
+          "englishName": "Constantan Block",
+          "chineseName": "康铜块"
+        },
+        {
+          "name": "constantan_ore",
+          "englishName": "Constantan Ore",
+          "chineseName": "康铜矿石"
+        },
+        {
+          "name": "raw_constantan_block",
+          "englishName": "Raw Constantan Block",
+          "chineseName": "粗康铜块"
+        }
+      ],
+      "fluidColor": "#2C241D"
+    },
+    {
+      "slug": "diamond",
+      "englishName": "Diamond",
+      "chineseName": "钻石",
+      "color": "#449083",
+      "template": "diamond",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "diamond_dust",
+          "englishName": "Diamond Dust",
+          "chineseName": "钻石粉末"
+        },
+        {
+          "name": "diamond_gear",
+          "englishName": "Diamond Gear",
+          "chineseName": "钻石齿轮"
+        },
+        {
+          "name": "diamond_ingot",
+          "englishName": "Diamond Ingot",
+          "chineseName": "钻石锭"
+        },
+        {
+          "name": "diamond_nugget",
+          "englishName": "Diamond Nugget",
+          "chineseName": "钻石粒"
+        },
+        {
+          "name": "diamond_plate",
+          "englishName": "Diamond Plate",
+          "chineseName": "钻石板"
+        },
+        {
+          "name": "diamond_rod",
+          "englishName": "Diamond Rod",
+          "chineseName": "钻石杆"
+        },
+        {
+          "name": "diamond_wire",
+          "englishName": "Diamond Wire",
+          "chineseName": "钻石线"
+        },
+        {
+          "name": "crushed_raw_diamond",
+          "englishName": "Crushed Raw Diamond",
+          "chineseName": "粉碎的粗钻石"
+        },
+        {
+          "name": "raw_diamond",
+          "englishName": "Raw Diamond",
+          "chineseName": "粗钻石"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "diamond_block",
+          "englishName": "Diamond Block",
+          "chineseName": "钻石块"
+        },
+        {
+          "name": "diamond_ore",
+          "englishName": "Diamond Ore",
+          "chineseName": "钻石矿石"
+        },
+        {
+          "name": "raw_diamond_block",
+          "englishName": "Raw Diamond Block",
+          "chineseName": "粗钻石块"
+        }
+      ],
+      "fluidColor": "#112B27"
+    },
+    {
+      "slug": "electrum",
+      "englishName": "Electrum",
+      "chineseName": "琥珀金",
+      "color": "#D2B46F",
+      "template": "brass",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1450,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 10,
+      "items": [
+        {
+          "name": "electrum_dust",
+          "englishName": "Electrum Dust",
+          "chineseName": "琥珀金粉末"
+        },
+        {
+          "name": "electrum_gear",
+          "englishName": "Electrum Gear",
+          "chineseName": "琥珀金齿轮"
+        },
+        {
+          "name": "electrum_ingot",
+          "englishName": "Electrum Ingot",
+          "chineseName": "琥珀金锭"
+        },
+        {
+          "name": "electrum_nugget",
+          "englishName": "Electrum Nugget",
+          "chineseName": "琥珀金粒"
+        },
+        {
+          "name": "electrum_plate",
+          "englishName": "Electrum Plate",
+          "chineseName": "琥珀金板"
+        },
+        {
+          "name": "electrum_rod",
+          "englishName": "Electrum Rod",
+          "chineseName": "琥珀金杆"
+        },
+        {
+          "name": "electrum_wire",
+          "englishName": "Electrum Wire",
+          "chineseName": "琥珀金线"
+        },
+        {
+          "name": "crushed_raw_electrum",
+          "englishName": "Crushed Raw Electrum",
+          "chineseName": "粉碎的粗琥珀金"
+        },
+        {
+          "name": "raw_electrum",
+          "englishName": "Raw Electrum",
+          "chineseName": "粗琥珀金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "electrum_block",
+          "englishName": "Electrum Block",
+          "chineseName": "琥珀金块"
+        },
+        {
+          "name": "electrum_ore",
+          "englishName": "Electrum Ore",
+          "chineseName": "琥珀金矿石"
+        },
+        {
+          "name": "raw_electrum_block",
+          "englishName": "Raw Electrum Block",
+          "chineseName": "粗琥珀金块"
+        }
+      ],
+      "fluidColor": "#2C2513"
+    },
+    {
+      "slug": "emerald",
+      "englishName": "Emerald",
+      "chineseName": "绿宝石",
+      "color": "#5E9B67",
+      "template": "elementium",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "emerald_dust",
+          "englishName": "Emerald Dust",
+          "chineseName": "绿宝石粉末"
+        },
+        {
+          "name": "emerald_gear",
+          "englishName": "Emerald Gear",
+          "chineseName": "绿宝石齿轮"
+        },
+        {
+          "name": "emerald_ingot",
+          "englishName": "Emerald Ingot",
+          "chineseName": "绿宝石锭"
+        },
+        {
+          "name": "emerald_nugget",
+          "englishName": "Emerald Nugget",
+          "chineseName": "绿宝石粒"
+        },
+        {
+          "name": "emerald_plate",
+          "englishName": "Emerald Plate",
+          "chineseName": "绿宝石板"
+        },
+        {
+          "name": "emerald_rod",
+          "englishName": "Emerald Rod",
+          "chineseName": "绿宝石杆"
+        },
+        {
+          "name": "emerald_wire",
+          "englishName": "Emerald Wire",
+          "chineseName": "绿宝石线"
+        },
+        {
+          "name": "crushed_raw_emerald",
+          "englishName": "Crushed Raw Emerald",
+          "chineseName": "粉碎的粗绿宝石"
+        },
+        {
+          "name": "raw_emerald",
+          "englishName": "Raw Emerald",
+          "chineseName": "粗绿宝石"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "emerald_block",
+          "englishName": "Emerald Block",
+          "chineseName": "绿宝石块"
+        },
+        {
+          "name": "emerald_ore",
+          "englishName": "Emerald Ore",
+          "chineseName": "绿宝石矿石"
+        },
+        {
+          "name": "raw_emerald_block",
+          "englishName": "Raw Emerald Block",
+          "chineseName": "粗绿宝石块"
+        }
+      ],
+      "fluidColor": "#172A19"
+    },
+    {
+      "slug": "enderium",
+      "englishName": "Enderium",
+      "chineseName": "末影",
+      "color": "#506470",
+      "template": "lumium",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 8,
+      "items": [
+        {
+          "name": "enderium_dust",
+          "englishName": "Enderium Dust",
+          "chineseName": "末影粉末"
+        },
+        {
+          "name": "enderium_gear",
+          "englishName": "Enderium Gear",
+          "chineseName": "末影齿轮"
+        },
+        {
+          "name": "enderium_ingot",
+          "englishName": "Enderium Ingot",
+          "chineseName": "末影锭"
+        },
+        {
+          "name": "enderium_nugget",
+          "englishName": "Enderium Nugget",
+          "chineseName": "末影粒"
+        },
+        {
+          "name": "enderium_plate",
+          "englishName": "Enderium Plate",
+          "chineseName": "末影板"
+        },
+        {
+          "name": "enderium_rod",
+          "englishName": "Enderium Rod",
+          "chineseName": "末影杆"
+        },
+        {
+          "name": "enderium_wire",
+          "englishName": "Enderium Wire",
+          "chineseName": "末影线"
+        },
+        {
+          "name": "crushed_raw_enderium",
+          "englishName": "Crushed Raw Enderium",
+          "chineseName": "粉碎的粗末影"
+        },
+        {
+          "name": "raw_enderium",
+          "englishName": "Raw Enderium",
+          "chineseName": "粗末影"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "enderium_block",
+          "englishName": "Enderium Block",
+          "chineseName": "末影块"
+        },
+        {
+          "name": "enderium_ore",
+          "englishName": "Enderium Ore",
+          "chineseName": "末影矿石"
+        },
+        {
+          "name": "raw_enderium_block",
+          "englishName": "Raw Enderium Block",
+          "chineseName": "粗末影块"
+        }
+      ],
+      "fluidColor": "#1D272D"
+    },
+    {
+      "slug": "invar",
+      "englishName": "Invar",
+      "chineseName": "殷钢",
+      "color": "#747E7D",
+      "template": "refined_iron",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1325,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "invar_dust",
+          "englishName": "Invar Dust",
+          "chineseName": "殷钢粉末"
+        },
+        {
+          "name": "invar_gear",
+          "englishName": "Invar Gear",
+          "chineseName": "殷钢齿轮"
+        },
+        {
+          "name": "invar_ingot",
+          "englishName": "Invar Ingot",
+          "chineseName": "殷钢锭"
+        },
+        {
+          "name": "invar_nugget",
+          "englishName": "Invar Nugget",
+          "chineseName": "殷钢粒"
+        },
+        {
+          "name": "invar_plate",
+          "englishName": "Invar Plate",
+          "chineseName": "殷钢板"
+        },
+        {
+          "name": "invar_rod",
+          "englishName": "Invar Rod",
+          "chineseName": "殷钢杆"
+        },
+        {
+          "name": "invar_wire",
+          "englishName": "Invar Wire",
+          "chineseName": "殷钢线"
+        },
+        {
+          "name": "crushed_raw_invar",
+          "englishName": "Crushed Raw Invar",
+          "chineseName": "粉碎的粗殷钢"
+        },
+        {
+          "name": "raw_invar",
+          "englishName": "Raw Invar",
+          "chineseName": "粗殷钢"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "invar_block",
+          "englishName": "Invar Block",
+          "chineseName": "殷钢块"
+        },
+        {
+          "name": "invar_ore",
+          "englishName": "Invar Ore",
+          "chineseName": "殷钢矿石"
+        },
+        {
+          "name": "raw_invar_block",
+          "englishName": "Raw Invar Block",
+          "chineseName": "粗殷钢块"
+        }
+      ],
+      "fluidColor": "#222626"
+    },
+    {
+      "slug": "lumium",
+      "englishName": "Lumium",
+      "chineseName": "流明",
+      "color": "#D6C27A",
+      "template": "energetic_alloy",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1450,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 10,
+      "items": [
+        {
+          "name": "lumium_dust",
+          "englishName": "Lumium Dust",
+          "chineseName": "流明粉末"
+        },
+        {
+          "name": "lumium_gear",
+          "englishName": "Lumium Gear",
+          "chineseName": "流明齿轮"
+        },
+        {
+          "name": "lumium_ingot",
+          "englishName": "Lumium Ingot",
+          "chineseName": "流明锭"
+        },
+        {
+          "name": "lumium_nugget",
+          "englishName": "Lumium Nugget",
+          "chineseName": "流明粒"
+        },
+        {
+          "name": "lumium_plate",
+          "englishName": "Lumium Plate",
+          "chineseName": "流明板"
+        },
+        {
+          "name": "lumium_rod",
+          "englishName": "Lumium Rod",
+          "chineseName": "流明杆"
+        },
+        {
+          "name": "lumium_wire",
+          "englishName": "Lumium Wire",
+          "chineseName": "流明线"
+        },
+        {
+          "name": "crushed_raw_lumium",
+          "englishName": "Crushed Raw Lumium",
+          "chineseName": "粉碎的粗流明"
+        },
+        {
+          "name": "raw_lumium",
+          "englishName": "Raw Lumium",
+          "chineseName": "粗流明"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "lumium_block",
+          "englishName": "Lumium Block",
+          "chineseName": "流明块"
+        },
+        {
+          "name": "lumium_ore",
+          "englishName": "Lumium Ore",
+          "chineseName": "流明矿石"
+        },
+        {
+          "name": "raw_lumium_block",
+          "englishName": "Raw Lumium Block",
+          "chineseName": "粗流明块"
+        }
+      ],
+      "fluidColor": "#2A2515"
+    },
+    {
+      "slug": "redstone",
+      "englishName": "Redstone",
+      "chineseName": "红石",
+      "color": "#9F2320",
+      "template": "redstone",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "redstone_dust",
+          "englishName": "Redstone Dust",
+          "chineseName": "红石粉末"
+        },
+        {
+          "name": "redstone_gear",
+          "englishName": "Redstone Gear",
+          "chineseName": "红石齿轮"
+        },
+        {
+          "name": "redstone_ingot",
+          "englishName": "Redstone Ingot",
+          "chineseName": "红石锭"
+        },
+        {
+          "name": "redstone_nugget",
+          "englishName": "Redstone Nugget",
+          "chineseName": "红石粒"
+        },
+        {
+          "name": "redstone_plate",
+          "englishName": "Redstone Plate",
+          "chineseName": "红石板"
+        },
+        {
+          "name": "redstone_rod",
+          "englishName": "Redstone Rod",
+          "chineseName": "红石杆"
+        },
+        {
+          "name": "redstone_wire",
+          "englishName": "Redstone Wire",
+          "chineseName": "红石线"
+        },
+        {
+          "name": "crushed_raw_redstone",
+          "englishName": "Crushed Raw Redstone",
+          "chineseName": "粉碎的粗红石"
+        },
+        {
+          "name": "raw_redstone",
+          "englishName": "Raw Redstone",
+          "chineseName": "粗红石"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "redstone_block",
+          "englishName": "Redstone Block",
+          "chineseName": "红石块"
+        },
+        {
+          "name": "redstone_ore",
+          "englishName": "Redstone Ore",
+          "chineseName": "红石矿石"
+        },
+        {
+          "name": "raw_redstone_block",
+          "englishName": "Raw Redstone Block",
+          "chineseName": "粗红石块"
+        }
+      ],
+      "fluidColor": "#7B0E0C"
+    },
+    {
+      "slug": "signalum",
+      "englishName": "Signalum",
+      "chineseName": "信素",
+      "color": "#C3634A",
+      "template": "energetic_alloy",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1450,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 10,
+      "items": [
+        {
+          "name": "signalum_dust",
+          "englishName": "Signalum Dust",
+          "chineseName": "信素粉末"
+        },
+        {
+          "name": "signalum_gear",
+          "englishName": "Signalum Gear",
+          "chineseName": "信素齿轮"
+        },
+        {
+          "name": "signalum_ingot",
+          "englishName": "Signalum Ingot",
+          "chineseName": "信素锭"
+        },
+        {
+          "name": "signalum_nugget",
+          "englishName": "Signalum Nugget",
+          "chineseName": "信素粒"
+        },
+        {
+          "name": "signalum_plate",
+          "englishName": "Signalum Plate",
+          "chineseName": "信素板"
+        },
+        {
+          "name": "signalum_rod",
+          "englishName": "Signalum Rod",
+          "chineseName": "信素杆"
+        },
+        {
+          "name": "signalum_wire",
+          "englishName": "Signalum Wire",
+          "chineseName": "信素线"
+        },
+        {
+          "name": "crushed_raw_signalum",
+          "englishName": "Crushed Raw Signalum",
+          "chineseName": "粉碎的粗信素"
+        },
+        {
+          "name": "raw_signalum",
+          "englishName": "Raw Signalum",
+          "chineseName": "粗信素"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "signalum_block",
+          "englishName": "Signalum Block",
+          "chineseName": "信素块"
+        },
+        {
+          "name": "signalum_ore",
+          "englishName": "Signalum Ore",
+          "chineseName": "信素矿石"
+        },
+        {
+          "name": "raw_signalum_block",
+          "englishName": "Raw Signalum Block",
+          "chineseName": "粗信素块"
+        }
+      ],
+      "fluidColor": "#451D13"
+    },
+    {
+      "slug": "steel",
+      "englishName": "Steel",
+      "chineseName": "钢",
+      "color": "#6D6B73",
+      "template": "refined_iron",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1325,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "steel_dust",
+          "englishName": "Steel Dust",
+          "chineseName": "钢粉末"
+        },
+        {
+          "name": "steel_gear",
+          "englishName": "Steel Gear",
+          "chineseName": "钢齿轮"
+        },
+        {
+          "name": "steel_ingot",
+          "englishName": "Steel Ingot",
+          "chineseName": "钢锭"
+        },
+        {
+          "name": "steel_nugget",
+          "englishName": "Steel Nugget",
+          "chineseName": "钢粒"
+        },
+        {
+          "name": "steel_plate",
+          "englishName": "Steel Plate",
+          "chineseName": "钢板"
+        },
+        {
+          "name": "steel_rod",
+          "englishName": "Steel Rod",
+          "chineseName": "钢杆"
+        },
+        {
+          "name": "steel_wire",
+          "englishName": "Steel Wire",
+          "chineseName": "钢线"
+        },
+        {
+          "name": "crushed_raw_steel",
+          "englishName": "Crushed Raw Steel",
+          "chineseName": "粉碎的粗钢"
+        },
+        {
+          "name": "raw_steel",
+          "englishName": "Raw Steel",
+          "chineseName": "粗钢"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "steel_block",
+          "englishName": "Steel Block",
+          "chineseName": "钢块"
+        },
+        {
+          "name": "steel_ore",
+          "englishName": "Steel Ore",
+          "chineseName": "钢矿石"
+        },
+        {
+          "name": "raw_steel_block",
+          "englishName": "Raw Steel Block",
+          "chineseName": "粗钢块"
+        }
+      ],
+      "fluidColor": "#262428"
+    },
+    {
+      "slug": "thaumium",
+      "englishName": "Thaumium",
+      "chineseName": "神秘",
+      "color": "#5A428C",
+      "template": "thaumium",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "thaumium_dust",
+          "englishName": "Thaumium Dust",
+          "chineseName": "神秘粉末"
+        },
+        {
+          "name": "thaumium_gear",
+          "englishName": "Thaumium Gear",
+          "chineseName": "神秘齿轮"
+        },
+        {
+          "name": "thaumium_ingot",
+          "englishName": "Thaumium Ingot",
+          "chineseName": "神秘锭"
+        },
+        {
+          "name": "thaumium_nugget",
+          "englishName": "Thaumium Nugget",
+          "chineseName": "神秘粒"
+        },
+        {
+          "name": "thaumium_plate",
+          "englishName": "Thaumium Plate",
+          "chineseName": "神秘板"
+        },
+        {
+          "name": "thaumium_rod",
+          "englishName": "Thaumium Rod",
+          "chineseName": "神秘杆"
+        },
+        {
+          "name": "thaumium_wire",
+          "englishName": "Thaumium Wire",
+          "chineseName": "神秘线"
+        },
+        {
+          "name": "crushed_raw_thaumium",
+          "englishName": "Crushed Raw Thaumium",
+          "chineseName": "粉碎的粗神秘"
+        },
+        {
+          "name": "raw_thaumium",
+          "englishName": "Raw Thaumium",
+          "chineseName": "粗神秘"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "thaumium_block",
+          "englishName": "Thaumium Block",
+          "chineseName": "神秘块"
+        },
+        {
+          "name": "thaumium_ore",
+          "englishName": "Thaumium Ore",
+          "chineseName": "神秘矿石"
+        },
+        {
+          "name": "raw_thaumium_block",
+          "englishName": "Raw Thaumium Block",
+          "chineseName": "粗神秘块"
+        }
+      ],
+      "fluidColor": "#2E1E4F"
+    },
+    {
+      "slug": "void",
+      "englishName": "Void",
+      "chineseName": "虚空",
+      "color": "#32293D",
+      "template": "void",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "void_dust",
+          "englishName": "Void Dust",
+          "chineseName": "虚空粉末"
+        },
+        {
+          "name": "void_gear",
+          "englishName": "Void Gear",
+          "chineseName": "虚空齿轮"
+        },
+        {
+          "name": "void_ingot",
+          "englishName": "Void Ingot",
+          "chineseName": "虚空锭"
+        },
+        {
+          "name": "void_nugget",
+          "englishName": "Void Nugget",
+          "chineseName": "虚空粒"
+        },
+        {
+          "name": "void_plate",
+          "englishName": "Void Plate",
+          "chineseName": "虚空板"
+        },
+        {
+          "name": "void_rod",
+          "englishName": "Void Rod",
+          "chineseName": "虚空杆"
+        },
+        {
+          "name": "void_wire",
+          "englishName": "Void Wire",
+          "chineseName": "虚空线"
+        },
+        {
+          "name": "crushed_raw_void",
+          "englishName": "Crushed Raw Void",
+          "chineseName": "粉碎的粗虚空"
+        },
+        {
+          "name": "raw_void",
+          "englishName": "Raw Void",
+          "chineseName": "粗虚空"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "void_block",
+          "englishName": "Void Block",
+          "chineseName": "虚空块"
+        },
+        {
+          "name": "void_ore",
+          "englishName": "Void Ore",
+          "chineseName": "虚空矿石"
+        },
+        {
+          "name": "raw_void_block",
+          "englishName": "Raw Void Block",
+          "chineseName": "粗虚空块"
+        }
+      ],
+      "fluidColor": "#2A2135"
+    },
+    {
+      "slug": "manasteel",
+      "englishName": "Manasteel",
+      "chineseName": "魔力钢",
+      "color": "#2F678D",
+      "template": "manasteel",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "manasteel_dust",
+          "englishName": "Manasteel Dust",
+          "chineseName": "魔力钢粉末"
+        },
+        {
+          "name": "manasteel_gear",
+          "englishName": "Manasteel Gear",
+          "chineseName": "魔力钢齿轮"
+        },
+        {
+          "name": "manasteel_ingot",
+          "englishName": "Manasteel Ingot",
+          "chineseName": "魔力钢锭"
+        },
+        {
+          "name": "manasteel_nugget",
+          "englishName": "Manasteel Nugget",
+          "chineseName": "魔力钢粒"
+        },
+        {
+          "name": "manasteel_plate",
+          "englishName": "Manasteel Plate",
+          "chineseName": "魔力钢板"
+        },
+        {
+          "name": "manasteel_rod",
+          "englishName": "Manasteel Rod",
+          "chineseName": "魔力钢杆"
+        },
+        {
+          "name": "manasteel_wire",
+          "englishName": "Manasteel Wire",
+          "chineseName": "魔力钢线"
+        },
+        {
+          "name": "crushed_raw_manasteel",
+          "englishName": "Crushed Raw Manasteel",
+          "chineseName": "粉碎的粗魔力钢"
+        },
+        {
+          "name": "raw_manasteel",
+          "englishName": "Raw Manasteel",
+          "chineseName": "粗魔力钢"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "manasteel_block",
+          "englishName": "Manasteel Block",
+          "chineseName": "魔力钢块"
+        },
+        {
+          "name": "manasteel_ore",
+          "englishName": "Manasteel Ore",
+          "chineseName": "魔力钢矿石"
+        },
+        {
+          "name": "raw_manasteel_block",
+          "englishName": "Raw Manasteel Block",
+          "chineseName": "粗魔力钢块"
+        }
+      ],
+      "fluidColor": "#0E293C"
+    },
+    {
+      "slug": "elementium",
+      "englishName": "Elementium",
+      "chineseName": "源质钢",
+      "color": "#A458A0",
+      "template": "elementium",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "elementium_dust",
+          "englishName": "Elementium Dust",
+          "chineseName": "源质钢粉末"
+        },
+        {
+          "name": "elementium_gear",
+          "englishName": "Elementium Gear",
+          "chineseName": "源质钢齿轮"
+        },
+        {
+          "name": "elementium_ingot",
+          "englishName": "Elementium Ingot",
+          "chineseName": "源质钢锭"
+        },
+        {
+          "name": "elementium_nugget",
+          "englishName": "Elementium Nugget",
+          "chineseName": "源质钢粒"
+        },
+        {
+          "name": "elementium_plate",
+          "englishName": "Elementium Plate",
+          "chineseName": "源质钢板"
+        },
+        {
+          "name": "elementium_rod",
+          "englishName": "Elementium Rod",
+          "chineseName": "源质钢杆"
+        },
+        {
+          "name": "elementium_wire",
+          "englishName": "Elementium Wire",
+          "chineseName": "源质钢线"
+        },
+        {
+          "name": "crushed_raw_elementium",
+          "englishName": "Crushed Raw Elementium",
+          "chineseName": "粉碎的粗源质钢"
+        },
+        {
+          "name": "raw_elementium",
+          "englishName": "Raw Elementium",
+          "chineseName": "粗源质钢"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "elementium_block",
+          "englishName": "Elementium Block",
+          "chineseName": "源质钢块"
+        },
+        {
+          "name": "elementium_ore",
+          "englishName": "Elementium Ore",
+          "chineseName": "源质钢矿石"
+        },
+        {
+          "name": "raw_elementium_block",
+          "englishName": "Raw Elementium Block",
+          "chineseName": "粗源质钢块"
+        }
+      ],
+      "fluidColor": "#3C1C3B"
+    },
+    {
+      "slug": "terrasteel",
+      "englishName": "Terrasteel",
+      "chineseName": "泰拉钢",
+      "color": "#2F7B4D",
+      "template": "terrasteel",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "terrasteel_dust",
+          "englishName": "Terrasteel Dust",
+          "chineseName": "泰拉钢粉末"
+        },
+        {
+          "name": "terrasteel_gear",
+          "englishName": "Terrasteel Gear",
+          "chineseName": "泰拉钢齿轮"
+        },
+        {
+          "name": "terrasteel_ingot",
+          "englishName": "Terrasteel Ingot",
+          "chineseName": "泰拉钢锭"
+        },
+        {
+          "name": "terrasteel_nugget",
+          "englishName": "Terrasteel Nugget",
+          "chineseName": "泰拉钢粒"
+        },
+        {
+          "name": "terrasteel_plate",
+          "englishName": "Terrasteel Plate",
+          "chineseName": "泰拉钢板"
+        },
+        {
+          "name": "terrasteel_rod",
+          "englishName": "Terrasteel Rod",
+          "chineseName": "泰拉钢杆"
+        },
+        {
+          "name": "terrasteel_wire",
+          "englishName": "Terrasteel Wire",
+          "chineseName": "泰拉钢线"
+        },
+        {
+          "name": "crushed_raw_terrasteel",
+          "englishName": "Crushed Raw Terrasteel",
+          "chineseName": "粉碎的粗泰拉钢"
+        },
+        {
+          "name": "raw_terrasteel",
+          "englishName": "Raw Terrasteel",
+          "chineseName": "粗泰拉钢"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "terrasteel_block",
+          "englishName": "Terrasteel Block",
+          "chineseName": "泰拉钢块"
+        },
+        {
+          "name": "terrasteel_ore",
+          "englishName": "Terrasteel Ore",
+          "chineseName": "泰拉钢矿石"
+        },
+        {
+          "name": "raw_terrasteel_block",
+          "englishName": "Raw Terrasteel Block",
+          "chineseName": "粗泰拉钢块"
+        }
+      ],
+      "fluidColor": "#0D2D1A"
+    },
+    {
+      "slug": "refined_iron",
+      "englishName": "Refined Iron",
+      "chineseName": "精炼铁",
+      "color": "#7D838A",
+      "template": "refined_iron",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1325,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "refined_iron_dust",
+          "englishName": "Refined Iron Dust",
+          "chineseName": "精炼铁粉末"
+        },
+        {
+          "name": "refined_iron_gear",
+          "englishName": "Refined Iron Gear",
+          "chineseName": "精炼铁齿轮"
+        },
+        {
+          "name": "refined_iron_ingot",
+          "englishName": "Refined Iron Ingot",
+          "chineseName": "精炼铁锭"
+        },
+        {
+          "name": "refined_iron_nugget",
+          "englishName": "Refined Iron Nugget",
+          "chineseName": "精炼铁粒"
+        },
+        {
+          "name": "refined_iron_plate",
+          "englishName": "Refined Iron Plate",
+          "chineseName": "精炼铁板"
+        },
+        {
+          "name": "refined_iron_rod",
+          "englishName": "Refined Iron Rod",
+          "chineseName": "精炼铁杆"
+        },
+        {
+          "name": "refined_iron_wire",
+          "englishName": "Refined Iron Wire",
+          "chineseName": "精炼铁线"
+        },
+        {
+          "name": "crushed_raw_refined_iron",
+          "englishName": "Crushed Raw Refined Iron",
+          "chineseName": "粉碎的粗精炼铁"
+        },
+        {
+          "name": "raw_refined_iron",
+          "englishName": "Raw Refined Iron",
+          "chineseName": "粗精炼铁"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "refined_iron_block",
+          "englishName": "Refined Iron Block",
+          "chineseName": "精炼铁块"
+        },
+        {
+          "name": "refined_iron_ore",
+          "englishName": "Refined Iron Ore",
+          "chineseName": "精炼铁矿石"
+        },
+        {
+          "name": "raw_refined_iron_block",
+          "englishName": "Raw Refined Iron Block",
+          "chineseName": "粗精炼铁块"
+        }
+      ],
+      "fluidColor": "#232527"
+    },
+    {
+      "slug": "advanced_alloy",
+      "englishName": "Advanced Alloy",
+      "chineseName": "高级合金",
+      "color": "#8C5D32",
+      "template": "advanced_alloy",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1425,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 8,
+      "items": [
+        {
+          "name": "advanced_alloy_dust",
+          "englishName": "Advanced Alloy Dust",
+          "chineseName": "高级合金粉末"
+        },
+        {
+          "name": "advanced_alloy_gear",
+          "englishName": "Advanced Alloy Gear",
+          "chineseName": "高级合金齿轮"
+        },
+        {
+          "name": "advanced_alloy_ingot",
+          "englishName": "Advanced Alloy Ingot",
+          "chineseName": "高级合金锭"
+        },
+        {
+          "name": "advanced_alloy_nugget",
+          "englishName": "Advanced Alloy Nugget",
+          "chineseName": "高级合金粒"
+        },
+        {
+          "name": "advanced_alloy_plate",
+          "englishName": "Advanced Alloy Plate",
+          "chineseName": "高级合金板"
+        },
+        {
+          "name": "advanced_alloy_rod",
+          "englishName": "Advanced Alloy Rod",
+          "chineseName": "高级合金杆"
+        },
+        {
+          "name": "advanced_alloy_wire",
+          "englishName": "Advanced Alloy Wire",
+          "chineseName": "高级合金线"
+        },
+        {
+          "name": "crushed_raw_advanced_alloy",
+          "englishName": "Crushed Raw Advanced Alloy",
+          "chineseName": "粉碎的粗高级合金"
+        },
+        {
+          "name": "raw_advanced_alloy",
+          "englishName": "Raw Advanced Alloy",
+          "chineseName": "粗高级合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "advanced_alloy_block",
+          "englishName": "Advanced Alloy Block",
+          "chineseName": "高级合金块"
+        },
+        {
+          "name": "advanced_alloy_ore",
+          "englishName": "Advanced Alloy Ore",
+          "chineseName": "高级合金矿石"
+        },
+        {
+          "name": "raw_advanced_alloy_block",
+          "englishName": "Raw Advanced Alloy Block",
+          "chineseName": "粗高级合金块"
+        }
+      ],
+      "fluidColor": "#37220E"
+    },
+    {
+      "slug": "iridium_alloy",
+      "englishName": "Iridium Alloy",
+      "chineseName": "铱合金",
+      "color": "#5C8790",
+      "template": "advanced_alloy",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1500,
+      "fluidViscosity": 1680,
+      "fluidDensity": 3320,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "iridium_alloy_dust",
+          "englishName": "Iridium Alloy Dust",
+          "chineseName": "铱合金粉末"
+        },
+        {
+          "name": "iridium_alloy_gear",
+          "englishName": "Iridium Alloy Gear",
+          "chineseName": "铱合金齿轮"
+        },
+        {
+          "name": "iridium_alloy_ingot",
+          "englishName": "Iridium Alloy Ingot",
+          "chineseName": "铱合金锭"
+        },
+        {
+          "name": "iridium_alloy_nugget",
+          "englishName": "Iridium Alloy Nugget",
+          "chineseName": "铱合金粒"
+        },
+        {
+          "name": "iridium_alloy_plate",
+          "englishName": "Iridium Alloy Plate",
+          "chineseName": "铱合金板"
+        },
+        {
+          "name": "iridium_alloy_rod",
+          "englishName": "Iridium Alloy Rod",
+          "chineseName": "铱合金杆"
+        },
+        {
+          "name": "iridium_alloy_wire",
+          "englishName": "Iridium Alloy Wire",
+          "chineseName": "铱合金线"
+        },
+        {
+          "name": "crushed_raw_iridium_alloy",
+          "englishName": "Crushed Raw Iridium Alloy",
+          "chineseName": "粉碎的粗铱合金"
+        },
+        {
+          "name": "raw_iridium_alloy",
+          "englishName": "Raw Iridium Alloy",
+          "chineseName": "粗铱合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "iridium_alloy_block",
+          "englishName": "Iridium Alloy Block",
+          "chineseName": "铱合金块"
+        },
+        {
+          "name": "iridium_alloy_ore",
+          "englishName": "Iridium Alloy Ore",
+          "chineseName": "铱合金矿石"
+        },
+        {
+          "name": "raw_iridium_alloy_block",
+          "englishName": "Raw Iridium Alloy Block",
+          "chineseName": "粗铱合金块"
+        }
+      ],
+      "fluidColor": "#18282B"
+    },
+    {
+      "slug": "brass",
+      "englishName": "Brass",
+      "chineseName": "黄铜",
+      "color": "#B38A2B",
+      "template": "brass",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1450,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 10,
+      "items": [
+        {
+          "name": "brass_dust",
+          "englishName": "Brass Dust",
+          "chineseName": "黄铜粉末"
+        },
+        {
+          "name": "brass_gear",
+          "englishName": "Brass Gear",
+          "chineseName": "黄铜齿轮"
+        },
+        {
+          "name": "brass_ingot",
+          "englishName": "Brass Ingot",
+          "chineseName": "黄铜锭"
+        },
+        {
+          "name": "brass_nugget",
+          "englishName": "Brass Nugget",
+          "chineseName": "黄铜粒"
+        },
+        {
+          "name": "brass_plate",
+          "englishName": "Brass Plate",
+          "chineseName": "黄铜板"
+        },
+        {
+          "name": "brass_rod",
+          "englishName": "Brass Rod",
+          "chineseName": "黄铜杆"
+        },
+        {
+          "name": "brass_wire",
+          "englishName": "Brass Wire",
+          "chineseName": "黄铜线"
+        },
+        {
+          "name": "crushed_raw_brass",
+          "englishName": "Crushed Raw Brass",
+          "chineseName": "粉碎的粗黄铜"
+        },
+        {
+          "name": "raw_brass",
+          "englishName": "Raw Brass",
+          "chineseName": "粗黄铜"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "brass_block",
+          "englishName": "Brass Block",
+          "chineseName": "黄铜块"
+        },
+        {
+          "name": "brass_ore",
+          "englishName": "Brass Ore",
+          "chineseName": "黄铜矿石"
+        },
+        {
+          "name": "raw_brass_block",
+          "englishName": "Raw Brass Block",
+          "chineseName": "粗黄铜块"
+        }
+      ],
+      "fluidColor": "#322407"
+    },
+    {
+      "slug": "red_alloy",
+      "englishName": "Red Alloy",
+      "chineseName": "红石合金",
+      "color": "#9D4331",
+      "template": "red_alloy",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "red_alloy_dust",
+          "englishName": "Red Alloy Dust",
+          "chineseName": "红石合金粉末"
+        },
+        {
+          "name": "red_alloy_gear",
+          "englishName": "Red Alloy Gear",
+          "chineseName": "红石合金齿轮"
+        },
+        {
+          "name": "red_alloy_ingot",
+          "englishName": "Red Alloy Ingot",
+          "chineseName": "红石合金锭"
+        },
+        {
+          "name": "red_alloy_nugget",
+          "englishName": "Red Alloy Nugget",
+          "chineseName": "红石合金粒"
+        },
+        {
+          "name": "red_alloy_plate",
+          "englishName": "Red Alloy Plate",
+          "chineseName": "红石合金板"
+        },
+        {
+          "name": "red_alloy_rod",
+          "englishName": "Red Alloy Rod",
+          "chineseName": "红石合金杆"
+        },
+        {
+          "name": "red_alloy_wire",
+          "englishName": "Red Alloy Wire",
+          "chineseName": "红石合金线"
+        },
+        {
+          "name": "crushed_raw_red_alloy",
+          "englishName": "Crushed Raw Red Alloy",
+          "chineseName": "粉碎的粗红石合金"
+        },
+        {
+          "name": "raw_red_alloy",
+          "englishName": "Raw Red Alloy",
+          "chineseName": "粗红石合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "red_alloy_block",
+          "englishName": "Red Alloy Block",
+          "chineseName": "红石合金块"
+        },
+        {
+          "name": "red_alloy_ore",
+          "englishName": "Red Alloy Ore",
+          "chineseName": "红石合金矿石"
+        },
+        {
+          "name": "raw_red_alloy_block",
+          "englishName": "Raw Red Alloy Block",
+          "chineseName": "粗红石合金块"
+        }
+      ],
+      "fluidColor": "#4E1B11"
+    },
+    {
+      "slug": "construction_alloy",
+      "englishName": "Construction Alloy",
+      "chineseName": "构造合金",
+      "color": "#B27A2C",
+      "template": "construction_alloy",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1425,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 8,
+      "items": [
+        {
+          "name": "construction_alloy_dust",
+          "englishName": "Construction Alloy Dust",
+          "chineseName": "构造合金粉末"
+        },
+        {
+          "name": "construction_alloy_gear",
+          "englishName": "Construction Alloy Gear",
+          "chineseName": "构造合金齿轮"
+        },
+        {
+          "name": "construction_alloy_ingot",
+          "englishName": "Construction Alloy Ingot",
+          "chineseName": "构造合金锭"
+        },
+        {
+          "name": "construction_alloy_nugget",
+          "englishName": "Construction Alloy Nugget",
+          "chineseName": "构造合金粒"
+        },
+        {
+          "name": "construction_alloy_plate",
+          "englishName": "Construction Alloy Plate",
+          "chineseName": "构造合金板"
+        },
+        {
+          "name": "construction_alloy_rod",
+          "englishName": "Construction Alloy Rod",
+          "chineseName": "构造合金杆"
+        },
+        {
+          "name": "construction_alloy_wire",
+          "englishName": "Construction Alloy Wire",
+          "chineseName": "构造合金线"
+        },
+        {
+          "name": "crushed_raw_construction_alloy",
+          "englishName": "Crushed Raw Construction Alloy",
+          "chineseName": "粉碎的粗构造合金"
+        },
+        {
+          "name": "raw_construction_alloy",
+          "englishName": "Raw Construction Alloy",
+          "chineseName": "粗构造合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "construction_alloy_block",
+          "englishName": "Construction Alloy Block",
+          "chineseName": "构造合金块"
+        },
+        {
+          "name": "construction_alloy_ore",
+          "englishName": "Construction Alloy Ore",
+          "chineseName": "构造合金矿石"
+        },
+        {
+          "name": "raw_construction_alloy_block",
+          "englishName": "Raw Construction Alloy Block",
+          "chineseName": "粗构造合金块"
+        }
+      ],
+      "fluidColor": "#362208"
+    },
+    {
+      "slug": "conductive_iron",
+      "englishName": "Conductive Iron",
+      "chineseName": "导电铁",
+      "color": "#8C5C43",
+      "template": "conductive_iron",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1425,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 8,
+      "items": [
+        {
+          "name": "conductive_iron_dust",
+          "englishName": "Conductive Iron Dust",
+          "chineseName": "导电铁粉末"
+        },
+        {
+          "name": "conductive_iron_gear",
+          "englishName": "Conductive Iron Gear",
+          "chineseName": "导电铁齿轮"
+        },
+        {
+          "name": "conductive_iron_ingot",
+          "englishName": "Conductive Iron Ingot",
+          "chineseName": "导电铁锭"
+        },
+        {
+          "name": "conductive_iron_nugget",
+          "englishName": "Conductive Iron Nugget",
+          "chineseName": "导电铁粒"
+        },
+        {
+          "name": "conductive_iron_plate",
+          "englishName": "Conductive Iron Plate",
+          "chineseName": "导电铁板"
+        },
+        {
+          "name": "conductive_iron_rod",
+          "englishName": "Conductive Iron Rod",
+          "chineseName": "导电铁杆"
+        },
+        {
+          "name": "conductive_iron_wire",
+          "englishName": "Conductive Iron Wire",
+          "chineseName": "导电铁线"
+        },
+        {
+          "name": "crushed_raw_conductive_iron",
+          "englishName": "Crushed Raw Conductive Iron",
+          "chineseName": "粉碎的粗导电铁"
+        },
+        {
+          "name": "raw_conductive_iron",
+          "englishName": "Raw Conductive Iron",
+          "chineseName": "粗导电铁"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "conductive_iron_block",
+          "englishName": "Conductive Iron Block",
+          "chineseName": "导电铁块"
+        },
+        {
+          "name": "conductive_iron_ore",
+          "englishName": "Conductive Iron Ore",
+          "chineseName": "导电铁矿石"
+        },
+        {
+          "name": "raw_conductive_iron_block",
+          "englishName": "Raw Conductive Iron Block",
+          "chineseName": "粗导电铁块"
+        }
+      ],
+      "fluidColor": "#372116"
+    },
+    {
+      "slug": "electrical_steel",
+      "englishName": "Electrical Steel",
+      "chineseName": "电气钢",
+      "color": "#6E7D8D",
+      "template": "electrical_steel",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1425,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 8,
+      "items": [
+        {
+          "name": "electrical_steel_dust",
+          "englishName": "Electrical Steel Dust",
+          "chineseName": "电气钢粉末"
+        },
+        {
+          "name": "electrical_steel_gear",
+          "englishName": "Electrical Steel Gear",
+          "chineseName": "电气钢齿轮"
+        },
+        {
+          "name": "electrical_steel_ingot",
+          "englishName": "Electrical Steel Ingot",
+          "chineseName": "电气钢锭"
+        },
+        {
+          "name": "electrical_steel_nugget",
+          "englishName": "Electrical Steel Nugget",
+          "chineseName": "电气钢粒"
+        },
+        {
+          "name": "electrical_steel_plate",
+          "englishName": "Electrical Steel Plate",
+          "chineseName": "电气钢板"
+        },
+        {
+          "name": "electrical_steel_rod",
+          "englishName": "Electrical Steel Rod",
+          "chineseName": "电气钢杆"
+        },
+        {
+          "name": "electrical_steel_wire",
+          "englishName": "Electrical Steel Wire",
+          "chineseName": "电气钢线"
+        },
+        {
+          "name": "crushed_raw_electrical_steel",
+          "englishName": "Crushed Raw Electrical Steel",
+          "chineseName": "粉碎的粗电气钢"
+        },
+        {
+          "name": "raw_electrical_steel",
+          "englishName": "Raw Electrical Steel",
+          "chineseName": "粗电气钢"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "electrical_steel_block",
+          "englishName": "Electrical Steel Block",
+          "chineseName": "电气钢块"
+        },
+        {
+          "name": "electrical_steel_ore",
+          "englishName": "Electrical Steel Ore",
+          "chineseName": "电气钢矿石"
+        },
+        {
+          "name": "raw_electrical_steel_block",
+          "englishName": "Raw Electrical Steel Block",
+          "chineseName": "粗电气钢块"
+        }
+      ],
+      "fluidColor": "#20262C"
+    },
+    {
+      "slug": "dark_steel",
+      "englishName": "Dark Steel",
+      "chineseName": "暗钢",
+      "color": "#3B4250",
+      "template": "dark_steel",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1500,
+      "fluidViscosity": 1680,
+      "fluidDensity": 3320,
+      "fluidLuminosity": 5,
+      "items": [
+        {
+          "name": "dark_steel_dust",
+          "englishName": "Dark Steel Dust",
+          "chineseName": "暗钢粉末"
+        },
+        {
+          "name": "dark_steel_gear",
+          "englishName": "Dark Steel Gear",
+          "chineseName": "暗钢齿轮"
+        },
+        {
+          "name": "dark_steel_ingot",
+          "englishName": "Dark Steel Ingot",
+          "chineseName": "暗钢锭"
+        },
+        {
+          "name": "dark_steel_nugget",
+          "englishName": "Dark Steel Nugget",
+          "chineseName": "暗钢粒"
+        },
+        {
+          "name": "dark_steel_plate",
+          "englishName": "Dark Steel Plate",
+          "chineseName": "暗钢板"
+        },
+        {
+          "name": "dark_steel_rod",
+          "englishName": "Dark Steel Rod",
+          "chineseName": "暗钢杆"
+        },
+        {
+          "name": "dark_steel_wire",
+          "englishName": "Dark Steel Wire",
+          "chineseName": "暗钢线"
+        },
+        {
+          "name": "crushed_raw_dark_steel",
+          "englishName": "Crushed Raw Dark Steel",
+          "chineseName": "粉碎的粗暗钢"
+        },
+        {
+          "name": "raw_dark_steel",
+          "englishName": "Raw Dark Steel",
+          "chineseName": "粗暗钢"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "dark_steel_block",
+          "englishName": "Dark Steel Block",
+          "chineseName": "暗钢块"
+        },
+        {
+          "name": "dark_steel_ore",
+          "englishName": "Dark Steel Ore",
+          "chineseName": "暗钢矿石"
+        },
+        {
+          "name": "raw_dark_steel_block",
+          "englishName": "Raw Dark Steel Block",
+          "chineseName": "粗暗钢块"
+        }
+      ],
+      "fluidColor": "#202530"
+    },
+    {
+      "slug": "pulsating_iron",
+      "englishName": "Pulsating Iron",
+      "chineseName": "脉冲铁",
+      "color": "#4B9B82",
+      "template": "pulsating_iron",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 8,
+      "items": [
+        {
+          "name": "pulsating_iron_dust",
+          "englishName": "Pulsating Iron Dust",
+          "chineseName": "脉冲铁粉末"
+        },
+        {
+          "name": "pulsating_iron_gear",
+          "englishName": "Pulsating Iron Gear",
+          "chineseName": "脉冲铁齿轮"
+        },
+        {
+          "name": "pulsating_iron_ingot",
+          "englishName": "Pulsating Iron Ingot",
+          "chineseName": "脉冲铁锭"
+        },
+        {
+          "name": "pulsating_iron_nugget",
+          "englishName": "Pulsating Iron Nugget",
+          "chineseName": "脉冲铁粒"
+        },
+        {
+          "name": "pulsating_iron_plate",
+          "englishName": "Pulsating Iron Plate",
+          "chineseName": "脉冲铁板"
+        },
+        {
+          "name": "pulsating_iron_rod",
+          "englishName": "Pulsating Iron Rod",
+          "chineseName": "脉冲铁杆"
+        },
+        {
+          "name": "pulsating_iron_wire",
+          "englishName": "Pulsating Iron Wire",
+          "chineseName": "脉冲铁线"
+        },
+        {
+          "name": "crushed_raw_pulsating_iron",
+          "englishName": "Crushed Raw Pulsating Iron",
+          "chineseName": "粉碎的粗脉冲铁"
+        },
+        {
+          "name": "raw_pulsating_iron",
+          "englishName": "Raw Pulsating Iron",
+          "chineseName": "粗脉冲铁"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "pulsating_iron_block",
+          "englishName": "Pulsating Iron Block",
+          "chineseName": "脉冲铁块"
+        },
+        {
+          "name": "pulsating_iron_ore",
+          "englishName": "Pulsating Iron Ore",
+          "chineseName": "脉冲铁矿石"
+        },
+        {
+          "name": "raw_pulsating_iron_block",
+          "englishName": "Raw Pulsating Iron Block",
+          "chineseName": "粗脉冲铁块"
+        }
+      ],
+      "fluidColor": "#112B23"
+    },
+    {
+      "slug": "energetic_alloy",
+      "englishName": "Energetic Alloy",
+      "chineseName": "充能合金",
+      "color": "#CC8A28",
+      "template": "energetic_alloy",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1450,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 10,
+      "items": [
+        {
+          "name": "energetic_alloy_dust",
+          "englishName": "Energetic Alloy Dust",
+          "chineseName": "充能合金粉末"
+        },
+        {
+          "name": "energetic_alloy_gear",
+          "englishName": "Energetic Alloy Gear",
+          "chineseName": "充能合金齿轮"
+        },
+        {
+          "name": "energetic_alloy_ingot",
+          "englishName": "Energetic Alloy Ingot",
+          "chineseName": "充能合金锭"
+        },
+        {
+          "name": "energetic_alloy_nugget",
+          "englishName": "Energetic Alloy Nugget",
+          "chineseName": "充能合金粒"
+        },
+        {
+          "name": "energetic_alloy_plate",
+          "englishName": "Energetic Alloy Plate",
+          "chineseName": "充能合金板"
+        },
+        {
+          "name": "energetic_alloy_rod",
+          "englishName": "Energetic Alloy Rod",
+          "chineseName": "充能合金杆"
+        },
+        {
+          "name": "energetic_alloy_wire",
+          "englishName": "Energetic Alloy Wire",
+          "chineseName": "充能合金线"
+        },
+        {
+          "name": "crushed_raw_energetic_alloy",
+          "englishName": "Crushed Raw Energetic Alloy",
+          "chineseName": "粉碎的粗充能合金"
+        },
+        {
+          "name": "raw_energetic_alloy",
+          "englishName": "Raw Energetic Alloy",
+          "chineseName": "粗充能合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "energetic_alloy_block",
+          "englishName": "Energetic Alloy Block",
+          "chineseName": "充能合金块"
+        },
+        {
+          "name": "energetic_alloy_ore",
+          "englishName": "Energetic Alloy Ore",
+          "chineseName": "充能合金矿石"
+        },
+        {
+          "name": "raw_energetic_alloy_block",
+          "englishName": "Raw Energetic Alloy Block",
+          "chineseName": "粗充能合金块"
+        }
+      ],
+      "fluidColor": "#372205"
+    },
+    {
+      "slug": "vibrant_alloy",
+      "englishName": "Vibrant Alloy",
+      "chineseName": "活力合金",
+      "color": "#85A63C",
+      "template": "vibrant_alloy",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1450,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 10,
+      "items": [
+        {
+          "name": "vibrant_alloy_dust",
+          "englishName": "Vibrant Alloy Dust",
+          "chineseName": "活力合金粉末"
+        },
+        {
+          "name": "vibrant_alloy_gear",
+          "englishName": "Vibrant Alloy Gear",
+          "chineseName": "活力合金齿轮"
+        },
+        {
+          "name": "vibrant_alloy_ingot",
+          "englishName": "Vibrant Alloy Ingot",
+          "chineseName": "活力合金锭"
+        },
+        {
+          "name": "vibrant_alloy_nugget",
+          "englishName": "Vibrant Alloy Nugget",
+          "chineseName": "活力合金粒"
+        },
+        {
+          "name": "vibrant_alloy_plate",
+          "englishName": "Vibrant Alloy Plate",
+          "chineseName": "活力合金板"
+        },
+        {
+          "name": "vibrant_alloy_rod",
+          "englishName": "Vibrant Alloy Rod",
+          "chineseName": "活力合金杆"
+        },
+        {
+          "name": "vibrant_alloy_wire",
+          "englishName": "Vibrant Alloy Wire",
+          "chineseName": "活力合金线"
+        },
+        {
+          "name": "crushed_raw_vibrant_alloy",
+          "englishName": "Crushed Raw Vibrant Alloy",
+          "chineseName": "粉碎的粗活力合金"
+        },
+        {
+          "name": "raw_vibrant_alloy",
+          "englishName": "Raw Vibrant Alloy",
+          "chineseName": "粗活力合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "vibrant_alloy_block",
+          "englishName": "Vibrant Alloy Block",
+          "chineseName": "活力合金块"
+        },
+        {
+          "name": "vibrant_alloy_ore",
+          "englishName": "Vibrant Alloy Ore",
+          "chineseName": "活力合金矿石"
+        },
+        {
+          "name": "raw_vibrant_alloy_block",
+          "englishName": "Raw Vibrant Alloy Block",
+          "chineseName": "粗活力合金块"
+        }
+      ],
+      "fluidColor": "#20290B"
+    },
+    {
+      "slug": "soularium",
+      "englishName": "Soularium",
+      "chineseName": "魂金",
+      "color": "#A08561",
+      "template": "soularium",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "soularium_dust",
+          "englishName": "Soularium Dust",
+          "chineseName": "魂金粉末"
+        },
+        {
+          "name": "soularium_gear",
+          "englishName": "Soularium Gear",
+          "chineseName": "魂金齿轮"
+        },
+        {
+          "name": "soularium_ingot",
+          "englishName": "Soularium Ingot",
+          "chineseName": "魂金锭"
+        },
+        {
+          "name": "soularium_nugget",
+          "englishName": "Soularium Nugget",
+          "chineseName": "魂金粒"
+        },
+        {
+          "name": "soularium_plate",
+          "englishName": "Soularium Plate",
+          "chineseName": "魂金板"
+        },
+        {
+          "name": "soularium_rod",
+          "englishName": "Soularium Rod",
+          "chineseName": "魂金杆"
+        },
+        {
+          "name": "soularium_wire",
+          "englishName": "Soularium Wire",
+          "chineseName": "魂金线"
+        },
+        {
+          "name": "crushed_raw_soularium",
+          "englishName": "Crushed Raw Soularium",
+          "chineseName": "粉碎的粗魂金"
+        },
+        {
+          "name": "raw_soularium",
+          "englishName": "Raw Soularium",
+          "chineseName": "粗魂金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "soularium_block",
+          "englishName": "Soularium Block",
+          "chineseName": "魂金块"
+        },
+        {
+          "name": "soularium_ore",
+          "englishName": "Soularium Ore",
+          "chineseName": "魂金矿石"
+        },
+        {
+          "name": "raw_soularium_block",
+          "englishName": "Raw Soularium Block",
+          "chineseName": "粗魂金块"
+        }
+      ],
+      "fluidColor": "#2D2418"
+    },
+    {
+      "slug": "end_steel",
+      "englishName": "End Steel",
+      "chineseName": "末地钢",
+      "color": "#50697C",
+      "template": "end_steel",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 8,
+      "items": [
+        {
+          "name": "end_steel_dust",
+          "englishName": "End Steel Dust",
+          "chineseName": "末地钢粉末"
+        },
+        {
+          "name": "end_steel_gear",
+          "englishName": "End Steel Gear",
+          "chineseName": "末地钢齿轮"
+        },
+        {
+          "name": "end_steel_ingot",
+          "englishName": "End Steel Ingot",
+          "chineseName": "末地钢锭"
+        },
+        {
+          "name": "end_steel_nugget",
+          "englishName": "End Steel Nugget",
+          "chineseName": "末地钢粒"
+        },
+        {
+          "name": "end_steel_plate",
+          "englishName": "End Steel Plate",
+          "chineseName": "末地钢板"
+        },
+        {
+          "name": "end_steel_rod",
+          "englishName": "End Steel Rod",
+          "chineseName": "末地钢杆"
+        },
+        {
+          "name": "end_steel_wire",
+          "englishName": "End Steel Wire",
+          "chineseName": "末地钢线"
+        },
+        {
+          "name": "crushed_raw_end_steel",
+          "englishName": "Crushed Raw End Steel",
+          "chineseName": "粉碎的粗末地钢"
+        },
+        {
+          "name": "raw_end_steel",
+          "englishName": "Raw End Steel",
+          "chineseName": "粗末地钢"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "end_steel_block",
+          "englishName": "End Steel Block",
+          "chineseName": "末地钢块"
+        },
+        {
+          "name": "end_steel_ore",
+          "englishName": "End Steel Ore",
+          "chineseName": "末地钢矿石"
+        },
+        {
+          "name": "raw_end_steel_block",
+          "englishName": "Raw End Steel Block",
+          "chineseName": "粗末地钢块"
+        }
+      ],
+      "fluidColor": "#1C272F"
+    },
+    {
+      "slug": "void_brass",
+      "englishName": "Void Brass",
+      "chineseName": "虚空黄铜",
+      "color": "#856646",
+      "template": "thaumium",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "void_brass_dust",
+          "englishName": "Void Brass Dust",
+          "chineseName": "虚空黄铜粉末"
+        },
+        {
+          "name": "void_brass_gear",
+          "englishName": "Void Brass Gear",
+          "chineseName": "虚空黄铜齿轮"
+        },
+        {
+          "name": "void_brass_ingot",
+          "englishName": "Void Brass Ingot",
+          "chineseName": "虚空黄铜锭"
+        },
+        {
+          "name": "void_brass_nugget",
+          "englishName": "Void Brass Nugget",
+          "chineseName": "虚空黄铜粒"
+        },
+        {
+          "name": "void_brass_plate",
+          "englishName": "Void Brass Plate",
+          "chineseName": "虚空黄铜板"
+        },
+        {
+          "name": "void_brass_rod",
+          "englishName": "Void Brass Rod",
+          "chineseName": "虚空黄铜杆"
+        },
+        {
+          "name": "void_brass_wire",
+          "englishName": "Void Brass Wire",
+          "chineseName": "虚空黄铜线"
+        },
+        {
+          "name": "crushed_raw_void_brass",
+          "englishName": "Crushed Raw Void Brass",
+          "chineseName": "粉碎的粗虚空黄铜"
+        },
+        {
+          "name": "raw_void_brass",
+          "englishName": "Raw Void Brass",
+          "chineseName": "粗虚空黄铜"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "void_brass_block",
+          "englishName": "Void Brass Block",
+          "chineseName": "虚空黄铜块"
+        },
+        {
+          "name": "void_brass_ore",
+          "englishName": "Void Brass Ore",
+          "chineseName": "虚空黄铜矿石"
+        },
+        {
+          "name": "raw_void_brass_block",
+          "englishName": "Raw Void Brass Block",
+          "chineseName": "粗虚空黄铜块"
+        }
+      ],
+      "fluidColor": "#312315"
+    },
+    {
+      "slug": "void_metal",
+      "englishName": "Void Metal",
+      "chineseName": "虚空金属",
+      "color": "#66587C",
+      "template": "void",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "void_metal_dust",
+          "englishName": "Void Metal Dust",
+          "chineseName": "虚空金属粉末"
+        },
+        {
+          "name": "void_metal_gear",
+          "englishName": "Void Metal Gear",
+          "chineseName": "虚空金属齿轮"
+        },
+        {
+          "name": "void_metal_ingot",
+          "englishName": "Void Metal Ingot",
+          "chineseName": "虚空金属锭"
+        },
+        {
+          "name": "void_metal_nugget",
+          "englishName": "Void Metal Nugget",
+          "chineseName": "虚空金属粒"
+        },
+        {
+          "name": "void_metal_plate",
+          "englishName": "Void Metal Plate",
+          "chineseName": "虚空金属板"
+        },
+        {
+          "name": "void_metal_rod",
+          "englishName": "Void Metal Rod",
+          "chineseName": "虚空金属杆"
+        },
+        {
+          "name": "void_metal_wire",
+          "englishName": "Void Metal Wire",
+          "chineseName": "虚空金属线"
+        },
+        {
+          "name": "crushed_raw_void_metal",
+          "englishName": "Crushed Raw Void Metal",
+          "chineseName": "粉碎的粗虚空金属"
+        },
+        {
+          "name": "raw_void_metal",
+          "englishName": "Raw Void Metal",
+          "chineseName": "粗虚空金属"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "void_metal_block",
+          "englishName": "Void Metal Block",
+          "chineseName": "虚空金属块"
+        },
+        {
+          "name": "void_metal_ore",
+          "englishName": "Void Metal Ore",
+          "chineseName": "虚空金属矿石"
+        },
+        {
+          "name": "raw_void_metal_block",
+          "englishName": "Raw Void Metal Block",
+          "chineseName": "粗虚空金属块"
+        }
+      ],
+      "fluidColor": "#292234"
+    },
+    {
+      "slug": "runic_alloy",
+      "englishName": "Runic Alloy",
+      "chineseName": "符文合金",
+      "color": "#6372CA",
+      "template": "thaumium",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "runic_alloy_dust",
+          "englishName": "Runic Alloy Dust",
+          "chineseName": "符文合金粉末"
+        },
+        {
+          "name": "runic_alloy_gear",
+          "englishName": "Runic Alloy Gear",
+          "chineseName": "符文合金齿轮"
+        },
+        {
+          "name": "runic_alloy_ingot",
+          "englishName": "Runic Alloy Ingot",
+          "chineseName": "符文合金锭"
+        },
+        {
+          "name": "runic_alloy_nugget",
+          "englishName": "Runic Alloy Nugget",
+          "chineseName": "符文合金粒"
+        },
+        {
+          "name": "runic_alloy_plate",
+          "englishName": "Runic Alloy Plate",
+          "chineseName": "符文合金板"
+        },
+        {
+          "name": "runic_alloy_rod",
+          "englishName": "Runic Alloy Rod",
+          "chineseName": "符文合金杆"
+        },
+        {
+          "name": "runic_alloy_wire",
+          "englishName": "Runic Alloy Wire",
+          "chineseName": "符文合金线"
+        },
+        {
+          "name": "crushed_raw_runic_alloy",
+          "englishName": "Crushed Raw Runic Alloy",
+          "chineseName": "粉碎的粗符文合金"
+        },
+        {
+          "name": "raw_runic_alloy",
+          "englishName": "Raw Runic Alloy",
+          "chineseName": "粗符文合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "runic_alloy_block",
+          "englishName": "Runic Alloy Block",
+          "chineseName": "符文合金块"
+        },
+        {
+          "name": "runic_alloy_ore",
+          "englishName": "Runic Alloy Ore",
+          "chineseName": "符文合金矿石"
+        },
+        {
+          "name": "raw_runic_alloy_block",
+          "englishName": "Raw Runic Alloy Block",
+          "chineseName": "粗符文合金块"
+        }
+      ],
+      "fluidColor": "#1D2348"
+    },
+    {
+      "slug": "verdant_alloy",
+      "englishName": "Verdant Alloy",
+      "chineseName": "繁茂合金",
+      "color": "#59A354",
+      "template": "elementium",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "verdant_alloy_dust",
+          "englishName": "Verdant Alloy Dust",
+          "chineseName": "繁茂合金粉末"
+        },
+        {
+          "name": "verdant_alloy_gear",
+          "englishName": "Verdant Alloy Gear",
+          "chineseName": "繁茂合金齿轮"
+        },
+        {
+          "name": "verdant_alloy_ingot",
+          "englishName": "Verdant Alloy Ingot",
+          "chineseName": "繁茂合金锭"
+        },
+        {
+          "name": "verdant_alloy_nugget",
+          "englishName": "Verdant Alloy Nugget",
+          "chineseName": "繁茂合金粒"
+        },
+        {
+          "name": "verdant_alloy_plate",
+          "englishName": "Verdant Alloy Plate",
+          "chineseName": "繁茂合金板"
+        },
+        {
+          "name": "verdant_alloy_rod",
+          "englishName": "Verdant Alloy Rod",
+          "chineseName": "繁茂合金杆"
+        },
+        {
+          "name": "verdant_alloy_wire",
+          "englishName": "Verdant Alloy Wire",
+          "chineseName": "繁茂合金线"
+        },
+        {
+          "name": "crushed_raw_verdant_alloy",
+          "englishName": "Crushed Raw Verdant Alloy",
+          "chineseName": "粉碎的粗繁茂合金"
+        },
+        {
+          "name": "raw_verdant_alloy",
+          "englishName": "Raw Verdant Alloy",
+          "chineseName": "粗繁茂合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "verdant_alloy_block",
+          "englishName": "Verdant Alloy Block",
+          "chineseName": "繁茂合金块"
+        },
+        {
+          "name": "verdant_alloy_ore",
+          "englishName": "Verdant Alloy Ore",
+          "chineseName": "繁茂合金矿石"
+        },
+        {
+          "name": "raw_verdant_alloy_block",
+          "englishName": "Raw Verdant Alloy Block",
+          "chineseName": "粗繁茂合金块"
+        }
+      ],
+      "fluidColor": "#142C13"
+    },
+    {
+      "slug": "living_steel",
+      "englishName": "Living Steel",
+      "chineseName": "生命钢",
+      "color": "#6FBC8F",
+      "template": "terrasteel",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "living_steel_dust",
+          "englishName": "Living Steel Dust",
+          "chineseName": "生命钢粉末"
+        },
+        {
+          "name": "living_steel_gear",
+          "englishName": "Living Steel Gear",
+          "chineseName": "生命钢齿轮"
+        },
+        {
+          "name": "living_steel_ingot",
+          "englishName": "Living Steel Ingot",
+          "chineseName": "生命钢锭"
+        },
+        {
+          "name": "living_steel_nugget",
+          "englishName": "Living Steel Nugget",
+          "chineseName": "生命钢粒"
+        },
+        {
+          "name": "living_steel_plate",
+          "englishName": "Living Steel Plate",
+          "chineseName": "生命钢板"
+        },
+        {
+          "name": "living_steel_rod",
+          "englishName": "Living Steel Rod",
+          "chineseName": "生命钢杆"
+        },
+        {
+          "name": "living_steel_wire",
+          "englishName": "Living Steel Wire",
+          "chineseName": "生命钢线"
+        },
+        {
+          "name": "crushed_raw_living_steel",
+          "englishName": "Crushed Raw Living Steel",
+          "chineseName": "粉碎的粗生命钢"
+        },
+        {
+          "name": "raw_living_steel",
+          "englishName": "Raw Living Steel",
+          "chineseName": "粗生命钢"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "living_steel_block",
+          "englishName": "Living Steel Block",
+          "chineseName": "生命钢块"
+        },
+        {
+          "name": "living_steel_ore",
+          "englishName": "Living Steel Ore",
+          "chineseName": "生命钢矿石"
+        },
+        {
+          "name": "raw_living_steel_block",
+          "englishName": "Raw Living Steel Block",
+          "chineseName": "粗生命钢块"
+        }
+      ],
+      "fluidColor": "#162A1E"
+    },
+    {
+      "slug": "gaia_alloy",
+      "englishName": "Gaia Alloy",
+      "chineseName": "盖亚合金",
+      "color": "#CE669C",
+      "template": "elementium",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "gaia_alloy_dust",
+          "englishName": "Gaia Alloy Dust",
+          "chineseName": "盖亚合金粉末"
+        },
+        {
+          "name": "gaia_alloy_gear",
+          "englishName": "Gaia Alloy Gear",
+          "chineseName": "盖亚合金齿轮"
+        },
+        {
+          "name": "gaia_alloy_ingot",
+          "englishName": "Gaia Alloy Ingot",
+          "chineseName": "盖亚合金锭"
+        },
+        {
+          "name": "gaia_alloy_nugget",
+          "englishName": "Gaia Alloy Nugget",
+          "chineseName": "盖亚合金粒"
+        },
+        {
+          "name": "gaia_alloy_plate",
+          "englishName": "Gaia Alloy Plate",
+          "chineseName": "盖亚合金板"
+        },
+        {
+          "name": "gaia_alloy_rod",
+          "englishName": "Gaia Alloy Rod",
+          "chineseName": "盖亚合金杆"
+        },
+        {
+          "name": "gaia_alloy_wire",
+          "englishName": "Gaia Alloy Wire",
+          "chineseName": "盖亚合金线"
+        },
+        {
+          "name": "crushed_raw_gaia_alloy",
+          "englishName": "Crushed Raw Gaia Alloy",
+          "chineseName": "粉碎的粗盖亚合金"
+        },
+        {
+          "name": "raw_gaia_alloy",
+          "englishName": "Raw Gaia Alloy",
+          "chineseName": "粗盖亚合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "gaia_alloy_block",
+          "englishName": "Gaia Alloy Block",
+          "chineseName": "盖亚合金块"
+        },
+        {
+          "name": "gaia_alloy_ore",
+          "englishName": "Gaia Alloy Ore",
+          "chineseName": "盖亚合金矿石"
+        },
+        {
+          "name": "raw_gaia_alloy_block",
+          "englishName": "Raw Gaia Alloy Block",
+          "chineseName": "粗盖亚合金块"
+        }
+      ],
+      "fluidColor": "#421B2F"
+    },
+    {
+      "slug": "rose_gold",
+      "englishName": "Rose Gold",
+      "chineseName": "玫瑰金",
+      "color": "#D69584",
+      "template": "electrum",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1450,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 10,
+      "items": [
+        {
+          "name": "rose_gold_dust",
+          "englishName": "Rose Gold Dust",
+          "chineseName": "玫瑰金粉末"
+        },
+        {
+          "name": "rose_gold_gear",
+          "englishName": "Rose Gold Gear",
+          "chineseName": "玫瑰金齿轮"
+        },
+        {
+          "name": "rose_gold_ingot",
+          "englishName": "Rose Gold Ingot",
+          "chineseName": "玫瑰金锭"
+        },
+        {
+          "name": "rose_gold_nugget",
+          "englishName": "Rose Gold Nugget",
+          "chineseName": "玫瑰金粒"
+        },
+        {
+          "name": "rose_gold_plate",
+          "englishName": "Rose Gold Plate",
+          "chineseName": "玫瑰金板"
+        },
+        {
+          "name": "rose_gold_rod",
+          "englishName": "Rose Gold Rod",
+          "chineseName": "玫瑰金杆"
+        },
+        {
+          "name": "rose_gold_wire",
+          "englishName": "Rose Gold Wire",
+          "chineseName": "玫瑰金线"
+        },
+        {
+          "name": "crushed_raw_rose_gold",
+          "englishName": "Crushed Raw Rose Gold",
+          "chineseName": "粉碎的粗玫瑰金"
+        },
+        {
+          "name": "raw_rose_gold",
+          "englishName": "Raw Rose Gold",
+          "chineseName": "粗玫瑰金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "rose_gold_block",
+          "englishName": "Rose Gold Block",
+          "chineseName": "玫瑰金块"
+        },
+        {
+          "name": "rose_gold_ore",
+          "englishName": "Rose Gold Ore",
+          "chineseName": "玫瑰金矿石"
+        },
+        {
+          "name": "raw_rose_gold_block",
+          "englishName": "Raw Rose Gold Block",
+          "chineseName": "粗玫瑰金块"
+        }
+      ],
+      "fluidColor": "#34221D"
+    },
+    {
+      "slug": "reactor_alloy",
+      "englishName": "Reactor Alloy",
+      "chineseName": "反应堆合金",
+      "color": "#8BB068",
+      "template": "advanced_alloy",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1425,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 8,
+      "items": [
+        {
+          "name": "reactor_alloy_dust",
+          "englishName": "Reactor Alloy Dust",
+          "chineseName": "反应堆合金粉末"
+        },
+        {
+          "name": "reactor_alloy_gear",
+          "englishName": "Reactor Alloy Gear",
+          "chineseName": "反应堆合金齿轮"
+        },
+        {
+          "name": "reactor_alloy_ingot",
+          "englishName": "Reactor Alloy Ingot",
+          "chineseName": "反应堆合金锭"
+        },
+        {
+          "name": "reactor_alloy_nugget",
+          "englishName": "Reactor Alloy Nugget",
+          "chineseName": "反应堆合金粒"
+        },
+        {
+          "name": "reactor_alloy_plate",
+          "englishName": "Reactor Alloy Plate",
+          "chineseName": "反应堆合金板"
+        },
+        {
+          "name": "reactor_alloy_rod",
+          "englishName": "Reactor Alloy Rod",
+          "chineseName": "反应堆合金杆"
+        },
+        {
+          "name": "reactor_alloy_wire",
+          "englishName": "Reactor Alloy Wire",
+          "chineseName": "反应堆合金线"
+        },
+        {
+          "name": "crushed_raw_reactor_alloy",
+          "englishName": "Crushed Raw Reactor Alloy",
+          "chineseName": "粉碎的粗反应堆合金"
+        },
+        {
+          "name": "raw_reactor_alloy",
+          "englishName": "Raw Reactor Alloy",
+          "chineseName": "粗反应堆合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "reactor_alloy_block",
+          "englishName": "Reactor Alloy Block",
+          "chineseName": "反应堆合金块"
+        },
+        {
+          "name": "reactor_alloy_ore",
+          "englishName": "Reactor Alloy Ore",
+          "chineseName": "反应堆合金矿石"
+        },
+        {
+          "name": "raw_reactor_alloy_block",
+          "englishName": "Raw Reactor Alloy Block",
+          "chineseName": "粗反应堆合金块"
+        }
+      ],
+      "fluidColor": "#1E2815"
+    },
+    {
+      "slug": "machine_steel",
+      "englishName": "Machine Steel",
+      "chineseName": "机械钢",
+      "color": "#7D93A6",
+      "template": "refined_iron",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1425,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 8,
+      "items": [
+        {
+          "name": "machine_steel_dust",
+          "englishName": "Machine Steel Dust",
+          "chineseName": "机械钢粉末"
+        },
+        {
+          "name": "machine_steel_gear",
+          "englishName": "Machine Steel Gear",
+          "chineseName": "机械钢齿轮"
+        },
+        {
+          "name": "machine_steel_ingot",
+          "englishName": "Machine Steel Ingot",
+          "chineseName": "机械钢锭"
+        },
+        {
+          "name": "machine_steel_nugget",
+          "englishName": "Machine Steel Nugget",
+          "chineseName": "机械钢粒"
+        },
+        {
+          "name": "machine_steel_plate",
+          "englishName": "Machine Steel Plate",
+          "chineseName": "机械钢板"
+        },
+        {
+          "name": "machine_steel_rod",
+          "englishName": "Machine Steel Rod",
+          "chineseName": "机械钢杆"
+        },
+        {
+          "name": "machine_steel_wire",
+          "englishName": "Machine Steel Wire",
+          "chineseName": "机械钢线"
+        },
+        {
+          "name": "crushed_raw_machine_steel",
+          "englishName": "Crushed Raw Machine Steel",
+          "chineseName": "粉碎的粗机械钢"
+        },
+        {
+          "name": "raw_machine_steel",
+          "englishName": "Raw Machine Steel",
+          "chineseName": "粗机械钢"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "machine_steel_block",
+          "englishName": "Machine Steel Block",
+          "chineseName": "机械钢块"
+        },
+        {
+          "name": "machine_steel_ore",
+          "englishName": "Machine Steel Ore",
+          "chineseName": "机械钢矿石"
+        },
+        {
+          "name": "raw_machine_steel_block",
+          "englishName": "Raw Machine Steel Block",
+          "chineseName": "粗机械钢块"
+        }
+      ],
+      "fluidColor": "#1F262D"
+    },
+    {
+      "slug": "pyrotheum_alloy",
+      "englishName": "Pyrotheum Alloy",
+      "chineseName": "炽焰合金",
+      "color": "#DB6A22",
+      "template": "signalum",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1675,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 12,
+      "items": [
+        {
+          "name": "pyrotheum_alloy_dust",
+          "englishName": "Pyrotheum Alloy Dust",
+          "chineseName": "炽焰合金粉末"
+        },
+        {
+          "name": "pyrotheum_alloy_gear",
+          "englishName": "Pyrotheum Alloy Gear",
+          "chineseName": "炽焰合金齿轮"
+        },
+        {
+          "name": "pyrotheum_alloy_ingot",
+          "englishName": "Pyrotheum Alloy Ingot",
+          "chineseName": "炽焰合金锭"
+        },
+        {
+          "name": "pyrotheum_alloy_nugget",
+          "englishName": "Pyrotheum Alloy Nugget",
+          "chineseName": "炽焰合金粒"
+        },
+        {
+          "name": "pyrotheum_alloy_plate",
+          "englishName": "Pyrotheum Alloy Plate",
+          "chineseName": "炽焰合金板"
+        },
+        {
+          "name": "pyrotheum_alloy_rod",
+          "englishName": "Pyrotheum Alloy Rod",
+          "chineseName": "炽焰合金杆"
+        },
+        {
+          "name": "pyrotheum_alloy_wire",
+          "englishName": "Pyrotheum Alloy Wire",
+          "chineseName": "炽焰合金线"
+        },
+        {
+          "name": "crushed_raw_pyrotheum_alloy",
+          "englishName": "Crushed Raw Pyrotheum Alloy",
+          "chineseName": "粉碎的粗炽焰合金"
+        },
+        {
+          "name": "raw_pyrotheum_alloy",
+          "englishName": "Raw Pyrotheum Alloy",
+          "chineseName": "粗炽焰合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "pyrotheum_alloy_block",
+          "englishName": "Pyrotheum Alloy Block",
+          "chineseName": "炽焰合金块"
+        },
+        {
+          "name": "pyrotheum_alloy_ore",
+          "englishName": "Pyrotheum Alloy Ore",
+          "chineseName": "炽焰合金矿石"
+        },
+        {
+          "name": "raw_pyrotheum_alloy_block",
+          "englishName": "Raw Pyrotheum Alloy Block",
+          "chineseName": "粗炽焰合金块"
+        }
+      ],
+      "fluidColor": "#471E03"
+    },
+    {
+      "slug": "cryotheum_alloy",
+      "englishName": "Cryotheum Alloy",
+      "chineseName": "寒霜合金",
+      "color": "#5FB8DC",
+      "template": "lumium",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1820,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "cryotheum_alloy_dust",
+          "englishName": "Cryotheum Alloy Dust",
+          "chineseName": "寒霜合金粉末"
+        },
+        {
+          "name": "cryotheum_alloy_gear",
+          "englishName": "Cryotheum Alloy Gear",
+          "chineseName": "寒霜合金齿轮"
+        },
+        {
+          "name": "cryotheum_alloy_ingot",
+          "englishName": "Cryotheum Alloy Ingot",
+          "chineseName": "寒霜合金锭"
+        },
+        {
+          "name": "cryotheum_alloy_nugget",
+          "englishName": "Cryotheum Alloy Nugget",
+          "chineseName": "寒霜合金粒"
+        },
+        {
+          "name": "cryotheum_alloy_plate",
+          "englishName": "Cryotheum Alloy Plate",
+          "chineseName": "寒霜合金板"
+        },
+        {
+          "name": "cryotheum_alloy_rod",
+          "englishName": "Cryotheum Alloy Rod",
+          "chineseName": "寒霜合金杆"
+        },
+        {
+          "name": "cryotheum_alloy_wire",
+          "englishName": "Cryotheum Alloy Wire",
+          "chineseName": "寒霜合金线"
+        },
+        {
+          "name": "crushed_raw_cryotheum_alloy",
+          "englishName": "Crushed Raw Cryotheum Alloy",
+          "chineseName": "粉碎的粗寒霜合金"
+        },
+        {
+          "name": "raw_cryotheum_alloy",
+          "englishName": "Raw Cryotheum Alloy",
+          "chineseName": "粗寒霜合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "cryotheum_alloy_block",
+          "englishName": "Cryotheum Alloy Block",
+          "chineseName": "寒霜合金块"
+        },
+        {
+          "name": "cryotheum_alloy_ore",
+          "englishName": "Cryotheum Alloy Ore",
+          "chineseName": "寒霜合金矿石"
+        },
+        {
+          "name": "raw_cryotheum_alloy_block",
+          "englishName": "Raw Cryotheum Alloy Block",
+          "chineseName": "粗寒霜合金块"
+        }
+      ],
+      "fluidColor": "#122933"
+    },
+    {
+      "slug": "stellar_alloy",
+      "englishName": "Stellar Alloy",
+      "chineseName": "星辉合金",
+      "color": "#6D83DE",
+      "template": "end_steel",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 8,
+      "items": [
+        {
+          "name": "stellar_alloy_dust",
+          "englishName": "Stellar Alloy Dust",
+          "chineseName": "星辉合金粉末"
+        },
+        {
+          "name": "stellar_alloy_gear",
+          "englishName": "Stellar Alloy Gear",
+          "chineseName": "星辉合金齿轮"
+        },
+        {
+          "name": "stellar_alloy_ingot",
+          "englishName": "Stellar Alloy Ingot",
+          "chineseName": "星辉合金锭"
+        },
+        {
+          "name": "stellar_alloy_nugget",
+          "englishName": "Stellar Alloy Nugget",
+          "chineseName": "星辉合金粒"
+        },
+        {
+          "name": "stellar_alloy_plate",
+          "englishName": "Stellar Alloy Plate",
+          "chineseName": "星辉合金板"
+        },
+        {
+          "name": "stellar_alloy_rod",
+          "englishName": "Stellar Alloy Rod",
+          "chineseName": "星辉合金杆"
+        },
+        {
+          "name": "stellar_alloy_wire",
+          "englishName": "Stellar Alloy Wire",
+          "chineseName": "星辉合金线"
+        },
+        {
+          "name": "crushed_raw_stellar_alloy",
+          "englishName": "Crushed Raw Stellar Alloy",
+          "chineseName": "粉碎的粗星辉合金"
+        },
+        {
+          "name": "raw_stellar_alloy",
+          "englishName": "Raw Stellar Alloy",
+          "chineseName": "粗星辉合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "stellar_alloy_block",
+          "englishName": "Stellar Alloy Block",
+          "chineseName": "星辉合金块"
+        },
+        {
+          "name": "stellar_alloy_ore",
+          "englishName": "Stellar Alloy Ore",
+          "chineseName": "星辉合金矿石"
+        },
+        {
+          "name": "raw_stellar_alloy_block",
+          "englishName": "Raw Stellar Alloy Block",
+          "chineseName": "粗星辉合金块"
+        }
+      ],
+      "fluidColor": "#1C2446"
+    },
+    {
+      "slug": "quantum_alloy",
+      "englishName": "Quantum Alloy",
+      "chineseName": "量子合金",
+      "color": "#7A95FF",
+      "template": "stellar_alloy",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 8,
+      "items": [
+        {
+          "name": "quantum_alloy_dust",
+          "englishName": "Quantum Alloy Dust",
+          "chineseName": "量子合金粉末"
+        },
+        {
+          "name": "quantum_alloy_gear",
+          "englishName": "Quantum Alloy Gear",
+          "chineseName": "量子合金齿轮"
+        },
+        {
+          "name": "quantum_alloy_ingot",
+          "englishName": "Quantum Alloy Ingot",
+          "chineseName": "量子合金锭"
+        },
+        {
+          "name": "quantum_alloy_nugget",
+          "englishName": "Quantum Alloy Nugget",
+          "chineseName": "量子合金粒"
+        },
+        {
+          "name": "quantum_alloy_plate",
+          "englishName": "Quantum Alloy Plate",
+          "chineseName": "量子合金板"
+        },
+        {
+          "name": "quantum_alloy_rod",
+          "englishName": "Quantum Alloy Rod",
+          "chineseName": "量子合金杆"
+        },
+        {
+          "name": "quantum_alloy_wire",
+          "englishName": "Quantum Alloy Wire",
+          "chineseName": "量子合金线"
+        },
+        {
+          "name": "crushed_raw_quantum_alloy",
+          "englishName": "Crushed Raw Quantum Alloy",
+          "chineseName": "粉碎的粗量子合金"
+        },
+        {
+          "name": "raw_quantum_alloy",
+          "englishName": "Raw Quantum Alloy",
+          "chineseName": "粗量子合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "quantum_alloy_block",
+          "englishName": "Quantum Alloy Block",
+          "chineseName": "量子合金块"
+        },
+        {
+          "name": "quantum_alloy_ore",
+          "englishName": "Quantum Alloy Ore",
+          "chineseName": "量子合金矿石"
+        },
+        {
+          "name": "raw_quantum_alloy_block",
+          "englishName": "Raw Quantum Alloy Block",
+          "chineseName": "粗量子合金块"
+        }
+      ],
+      "fluidColor": "#1E243E"
+    },
+    {
+      "slug": "fluxed_electrum",
+      "englishName": "Fluxed Electrum",
+      "chineseName": "通量琥珀金",
+      "color": "#E3B85B",
+      "template": "electrum",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1450,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 10,
+      "items": [
+        {
+          "name": "fluxed_electrum_dust",
+          "englishName": "Fluxed Electrum Dust",
+          "chineseName": "通量琥珀金粉末"
+        },
+        {
+          "name": "fluxed_electrum_gear",
+          "englishName": "Fluxed Electrum Gear",
+          "chineseName": "通量琥珀金齿轮"
+        },
+        {
+          "name": "fluxed_electrum_ingot",
+          "englishName": "Fluxed Electrum Ingot",
+          "chineseName": "通量琥珀金锭"
+        },
+        {
+          "name": "fluxed_electrum_nugget",
+          "englishName": "Fluxed Electrum Nugget",
+          "chineseName": "通量琥珀金粒"
+        },
+        {
+          "name": "fluxed_electrum_plate",
+          "englishName": "Fluxed Electrum Plate",
+          "chineseName": "通量琥珀金板"
+        },
+        {
+          "name": "fluxed_electrum_rod",
+          "englishName": "Fluxed Electrum Rod",
+          "chineseName": "通量琥珀金杆"
+        },
+        {
+          "name": "fluxed_electrum_wire",
+          "englishName": "Fluxed Electrum Wire",
+          "chineseName": "通量琥珀金线"
+        },
+        {
+          "name": "crushed_raw_fluxed_electrum",
+          "englishName": "Crushed Raw Fluxed Electrum",
+          "chineseName": "粉碎的粗通量琥珀金"
+        },
+        {
+          "name": "raw_fluxed_electrum",
+          "englishName": "Raw Fluxed Electrum",
+          "chineseName": "粗通量琥珀金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "fluxed_electrum_block",
+          "englishName": "Fluxed Electrum Block",
+          "chineseName": "通量琥珀金块"
+        },
+        {
+          "name": "fluxed_electrum_ore",
+          "englishName": "Fluxed Electrum Ore",
+          "chineseName": "通量琥珀金矿石"
+        },
+        {
+          "name": "raw_fluxed_electrum_block",
+          "englishName": "Raw Fluxed Electrum Block",
+          "chineseName": "粗通量琥珀金块"
+        }
+      ],
+      "fluidColor": "#2E240E"
+    },
+    {
+      "slug": "resonant_enderium",
+      "englishName": "Resonant Enderium",
+      "chineseName": "共振末影",
+      "color": "#3D8F8A",
+      "template": "enderium",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 8,
+      "items": [
+        {
+          "name": "resonant_enderium_dust",
+          "englishName": "Resonant Enderium Dust",
+          "chineseName": "共振末影粉末"
+        },
+        {
+          "name": "resonant_enderium_gear",
+          "englishName": "Resonant Enderium Gear",
+          "chineseName": "共振末影齿轮"
+        },
+        {
+          "name": "resonant_enderium_ingot",
+          "englishName": "Resonant Enderium Ingot",
+          "chineseName": "共振末影锭"
+        },
+        {
+          "name": "resonant_enderium_nugget",
+          "englishName": "Resonant Enderium Nugget",
+          "chineseName": "共振末影粒"
+        },
+        {
+          "name": "resonant_enderium_plate",
+          "englishName": "Resonant Enderium Plate",
+          "chineseName": "共振末影板"
+        },
+        {
+          "name": "resonant_enderium_rod",
+          "englishName": "Resonant Enderium Rod",
+          "chineseName": "共振末影杆"
+        },
+        {
+          "name": "resonant_enderium_wire",
+          "englishName": "Resonant Enderium Wire",
+          "chineseName": "共振末影线"
+        },
+        {
+          "name": "crushed_raw_resonant_enderium",
+          "englishName": "Crushed Raw Resonant Enderium",
+          "chineseName": "粉碎的粗共振末影"
+        },
+        {
+          "name": "raw_resonant_enderium",
+          "englishName": "Raw Resonant Enderium",
+          "chineseName": "粗共振末影"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "resonant_enderium_block",
+          "englishName": "Resonant Enderium Block",
+          "chineseName": "共振末影块"
+        },
+        {
+          "name": "resonant_enderium_ore",
+          "englishName": "Resonant Enderium Ore",
+          "chineseName": "共振末影矿石"
+        },
+        {
+          "name": "raw_resonant_enderium_block",
+          "englishName": "Raw Resonant Enderium Block",
+          "chineseName": "粗共振末影块"
+        }
+      ],
+      "fluidColor": "#0E2B29"
+    },
+    {
+      "slug": "photonic_brass",
+      "englishName": "Photonic Brass",
+      "chineseName": "光子黄铜",
+      "color": "#E0A452",
+      "template": "brass",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1450,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 10,
+      "items": [
+        {
+          "name": "photonic_brass_dust",
+          "englishName": "Photonic Brass Dust",
+          "chineseName": "光子黄铜粉末"
+        },
+        {
+          "name": "photonic_brass_gear",
+          "englishName": "Photonic Brass Gear",
+          "chineseName": "光子黄铜齿轮"
+        },
+        {
+          "name": "photonic_brass_ingot",
+          "englishName": "Photonic Brass Ingot",
+          "chineseName": "光子黄铜锭"
+        },
+        {
+          "name": "photonic_brass_nugget",
+          "englishName": "Photonic Brass Nugget",
+          "chineseName": "光子黄铜粒"
+        },
+        {
+          "name": "photonic_brass_plate",
+          "englishName": "Photonic Brass Plate",
+          "chineseName": "光子黄铜板"
+        },
+        {
+          "name": "photonic_brass_rod",
+          "englishName": "Photonic Brass Rod",
+          "chineseName": "光子黄铜杆"
+        },
+        {
+          "name": "photonic_brass_wire",
+          "englishName": "Photonic Brass Wire",
+          "chineseName": "光子黄铜线"
+        },
+        {
+          "name": "crushed_raw_photonic_brass",
+          "englishName": "Crushed Raw Photonic Brass",
+          "chineseName": "粉碎的粗光子黄铜"
+        },
+        {
+          "name": "raw_photonic_brass",
+          "englishName": "Raw Photonic Brass",
+          "chineseName": "粗光子黄铜"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "photonic_brass_block",
+          "englishName": "Photonic Brass Block",
+          "chineseName": "光子黄铜块"
+        },
+        {
+          "name": "photonic_brass_ore",
+          "englishName": "Photonic Brass Ore",
+          "chineseName": "光子黄铜矿石"
+        },
+        {
+          "name": "raw_photonic_brass_block",
+          "englishName": "Raw Photonic Brass Block",
+          "chineseName": "粗光子黄铜块"
+        }
+      ],
+      "fluidColor": "#32230D"
+    },
+    {
+      "slug": "circuit_steel",
+      "englishName": "Circuit Steel",
+      "chineseName": "电路钢",
+      "color": "#5E7083",
+      "template": "machine_steel",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1425,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 8,
+      "items": [
+        {
+          "name": "circuit_steel_dust",
+          "englishName": "Circuit Steel Dust",
+          "chineseName": "电路钢粉末"
+        },
+        {
+          "name": "circuit_steel_gear",
+          "englishName": "Circuit Steel Gear",
+          "chineseName": "电路钢齿轮"
+        },
+        {
+          "name": "circuit_steel_ingot",
+          "englishName": "Circuit Steel Ingot",
+          "chineseName": "电路钢锭"
+        },
+        {
+          "name": "circuit_steel_nugget",
+          "englishName": "Circuit Steel Nugget",
+          "chineseName": "电路钢粒"
+        },
+        {
+          "name": "circuit_steel_plate",
+          "englishName": "Circuit Steel Plate",
+          "chineseName": "电路钢板"
+        },
+        {
+          "name": "circuit_steel_rod",
+          "englishName": "Circuit Steel Rod",
+          "chineseName": "电路钢杆"
+        },
+        {
+          "name": "circuit_steel_wire",
+          "englishName": "Circuit Steel Wire",
+          "chineseName": "电路钢线"
+        },
+        {
+          "name": "crushed_raw_circuit_steel",
+          "englishName": "Crushed Raw Circuit Steel",
+          "chineseName": "粉碎的粗电路钢"
+        },
+        {
+          "name": "raw_circuit_steel",
+          "englishName": "Raw Circuit Steel",
+          "chineseName": "粗电路钢"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "circuit_steel_block",
+          "englishName": "Circuit Steel Block",
+          "chineseName": "电路钢块"
+        },
+        {
+          "name": "circuit_steel_ore",
+          "englishName": "Circuit Steel Ore",
+          "chineseName": "电路钢矿石"
+        },
+        {
+          "name": "raw_circuit_steel_block",
+          "englishName": "Raw Circuit Steel Block",
+          "chineseName": "粗电路钢块"
+        }
+      ],
+      "fluidColor": "#1E262E"
+    },
+    {
+      "slug": "neutron_alloy",
+      "englishName": "Neutron Alloy",
+      "chineseName": "中子合金",
+      "color": "#8FAF87",
+      "template": "reactor_alloy",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1500,
+      "fluidViscosity": 1680,
+      "fluidDensity": 3320,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "neutron_alloy_dust",
+          "englishName": "Neutron Alloy Dust",
+          "chineseName": "中子合金粉末"
+        },
+        {
+          "name": "neutron_alloy_gear",
+          "englishName": "Neutron Alloy Gear",
+          "chineseName": "中子合金齿轮"
+        },
+        {
+          "name": "neutron_alloy_ingot",
+          "englishName": "Neutron Alloy Ingot",
+          "chineseName": "中子合金锭"
+        },
+        {
+          "name": "neutron_alloy_nugget",
+          "englishName": "Neutron Alloy Nugget",
+          "chineseName": "中子合金粒"
+        },
+        {
+          "name": "neutron_alloy_plate",
+          "englishName": "Neutron Alloy Plate",
+          "chineseName": "中子合金板"
+        },
+        {
+          "name": "neutron_alloy_rod",
+          "englishName": "Neutron Alloy Rod",
+          "chineseName": "中子合金杆"
+        },
+        {
+          "name": "neutron_alloy_wire",
+          "englishName": "Neutron Alloy Wire",
+          "chineseName": "中子合金线"
+        },
+        {
+          "name": "crushed_raw_neutron_alloy",
+          "englishName": "Crushed Raw Neutron Alloy",
+          "chineseName": "粉碎的粗中子合金"
+        },
+        {
+          "name": "raw_neutron_alloy",
+          "englishName": "Raw Neutron Alloy",
+          "chineseName": "粗中子合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "neutron_alloy_block",
+          "englishName": "Neutron Alloy Block",
+          "chineseName": "中子合金块"
+        },
+        {
+          "name": "neutron_alloy_ore",
+          "englishName": "Neutron Alloy Ore",
+          "chineseName": "中子合金矿石"
+        },
+        {
+          "name": "raw_neutron_alloy_block",
+          "englishName": "Raw Neutron Alloy Block",
+          "chineseName": "粗中子合金块"
+        }
+      ],
+      "fluidColor": "#1F271D"
+    },
+    {
+      "slug": "plasma_signalum",
+      "englishName": "Plasma Signalum",
+      "chineseName": "等离子信素",
+      "color": "#FF6B47",
+      "template": "signalum",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1780,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 13,
+      "items": [
+        {
+          "name": "plasma_signalum_dust",
+          "englishName": "Plasma Signalum Dust",
+          "chineseName": "等离子信素粉末"
+        },
+        {
+          "name": "plasma_signalum_gear",
+          "englishName": "Plasma Signalum Gear",
+          "chineseName": "等离子信素齿轮"
+        },
+        {
+          "name": "plasma_signalum_ingot",
+          "englishName": "Plasma Signalum Ingot",
+          "chineseName": "等离子信素锭"
+        },
+        {
+          "name": "plasma_signalum_nugget",
+          "englishName": "Plasma Signalum Nugget",
+          "chineseName": "等离子信素粒"
+        },
+        {
+          "name": "plasma_signalum_plate",
+          "englishName": "Plasma Signalum Plate",
+          "chineseName": "等离子信素板"
+        },
+        {
+          "name": "plasma_signalum_rod",
+          "englishName": "Plasma Signalum Rod",
+          "chineseName": "等离子信素杆"
+        },
+        {
+          "name": "plasma_signalum_wire",
+          "englishName": "Plasma Signalum Wire",
+          "chineseName": "等离子信素线"
+        },
+        {
+          "name": "crushed_raw_plasma_signalum",
+          "englishName": "Crushed Raw Plasma Signalum",
+          "chineseName": "粉碎的粗等离子信素"
+        },
+        {
+          "name": "raw_plasma_signalum",
+          "englishName": "Raw Plasma Signalum",
+          "chineseName": "粗等离子信素"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "plasma_signalum_block",
+          "englishName": "Plasma Signalum Block",
+          "chineseName": "等离子信素块"
+        },
+        {
+          "name": "plasma_signalum_ore",
+          "englishName": "Plasma Signalum Ore",
+          "chineseName": "等离子信素矿石"
+        },
+        {
+          "name": "raw_plasma_signalum_block",
+          "englishName": "Raw Plasma Signalum Block",
+          "chineseName": "粗等离子信素块"
+        }
+      ],
+      "fluidColor": "#461D13"
+    },
+    {
+      "slug": "cryo_circuit_alloy",
+      "englishName": "Cryo Circuit Alloy",
+      "chineseName": "低温电路合金",
+      "color": "#5BAFD8",
+      "template": "circuit_steel",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1820,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "cryo_circuit_alloy_dust",
+          "englishName": "Cryo Circuit Alloy Dust",
+          "chineseName": "低温电路合金粉末"
+        },
+        {
+          "name": "cryo_circuit_alloy_gear",
+          "englishName": "Cryo Circuit Alloy Gear",
+          "chineseName": "低温电路合金齿轮"
+        },
+        {
+          "name": "cryo_circuit_alloy_ingot",
+          "englishName": "Cryo Circuit Alloy Ingot",
+          "chineseName": "低温电路合金锭"
+        },
+        {
+          "name": "cryo_circuit_alloy_nugget",
+          "englishName": "Cryo Circuit Alloy Nugget",
+          "chineseName": "低温电路合金粒"
+        },
+        {
+          "name": "cryo_circuit_alloy_plate",
+          "englishName": "Cryo Circuit Alloy Plate",
+          "chineseName": "低温电路合金板"
+        },
+        {
+          "name": "cryo_circuit_alloy_rod",
+          "englishName": "Cryo Circuit Alloy Rod",
+          "chineseName": "低温电路合金杆"
+        },
+        {
+          "name": "cryo_circuit_alloy_wire",
+          "englishName": "Cryo Circuit Alloy Wire",
+          "chineseName": "低温电路合金线"
+        },
+        {
+          "name": "crushed_raw_cryo_circuit_alloy",
+          "englishName": "Crushed Raw Cryo Circuit Alloy",
+          "chineseName": "粉碎的粗低温电路合金"
+        },
+        {
+          "name": "raw_cryo_circuit_alloy",
+          "englishName": "Raw Cryo Circuit Alloy",
+          "chineseName": "粗低温电路合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "cryo_circuit_alloy_block",
+          "englishName": "Cryo Circuit Alloy Block",
+          "chineseName": "低温电路合金块"
+        },
+        {
+          "name": "cryo_circuit_alloy_ore",
+          "englishName": "Cryo Circuit Alloy Ore",
+          "chineseName": "低温电路合金矿石"
+        },
+        {
+          "name": "raw_cryo_circuit_alloy_block",
+          "englishName": "Raw Cryo Circuit Alloy Block",
+          "chineseName": "粗低温电路合金块"
+        }
+      ],
+      "fluidColor": "#122935"
+    },
+    {
+      "slug": "mana_coil_alloy",
+      "englishName": "Mana Coil Alloy",
+      "chineseName": "魔力线圈合金",
+      "color": "#3E6FAF",
+      "template": "manasteel",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "mana_coil_alloy_dust",
+          "englishName": "Mana Coil Alloy Dust",
+          "chineseName": "魔力线圈合金粉末"
+        },
+        {
+          "name": "mana_coil_alloy_gear",
+          "englishName": "Mana Coil Alloy Gear",
+          "chineseName": "魔力线圈合金齿轮"
+        },
+        {
+          "name": "mana_coil_alloy_ingot",
+          "englishName": "Mana Coil Alloy Ingot",
+          "chineseName": "魔力线圈合金锭"
+        },
+        {
+          "name": "mana_coil_alloy_nugget",
+          "englishName": "Mana Coil Alloy Nugget",
+          "chineseName": "魔力线圈合金粒"
+        },
+        {
+          "name": "mana_coil_alloy_plate",
+          "englishName": "Mana Coil Alloy Plate",
+          "chineseName": "魔力线圈合金板"
+        },
+        {
+          "name": "mana_coil_alloy_rod",
+          "englishName": "Mana Coil Alloy Rod",
+          "chineseName": "魔力线圈合金杆"
+        },
+        {
+          "name": "mana_coil_alloy_wire",
+          "englishName": "Mana Coil Alloy Wire",
+          "chineseName": "魔力线圈合金线"
+        },
+        {
+          "name": "crushed_raw_mana_coil_alloy",
+          "englishName": "Crushed Raw Mana Coil Alloy",
+          "chineseName": "粉碎的粗魔力线圈合金"
+        },
+        {
+          "name": "raw_mana_coil_alloy",
+          "englishName": "Raw Mana Coil Alloy",
+          "chineseName": "粗魔力线圈合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "mana_coil_alloy_block",
+          "englishName": "Mana Coil Alloy Block",
+          "chineseName": "魔力线圈合金块"
+        },
+        {
+          "name": "mana_coil_alloy_ore",
+          "englishName": "Mana Coil Alloy Ore",
+          "chineseName": "魔力线圈合金矿石"
+        },
+        {
+          "name": "raw_mana_coil_alloy_block",
+          "englishName": "Raw Mana Coil Alloy Block",
+          "chineseName": "粗魔力线圈合金块"
+        }
+      ],
+      "fluidColor": "#122745"
+    },
+    {
+      "slug": "arcane_machine_alloy",
+      "englishName": "Arcane Machine Alloy",
+      "chineseName": "奥术机械合金",
+      "color": "#7A59C7",
+      "template": "runic_alloy",
+      "fluidStyle": "lava",
+      "fluidTemperature": 1250,
+      "fluidViscosity": 1450,
+      "fluidDensity": 3000,
+      "fluidLuminosity": 7,
+      "items": [
+        {
+          "name": "arcane_machine_alloy_dust",
+          "englishName": "Arcane Machine Alloy Dust",
+          "chineseName": "奥术机械合金粉末"
+        },
+        {
+          "name": "arcane_machine_alloy_gear",
+          "englishName": "Arcane Machine Alloy Gear",
+          "chineseName": "奥术机械合金齿轮"
+        },
+        {
+          "name": "arcane_machine_alloy_ingot",
+          "englishName": "Arcane Machine Alloy Ingot",
+          "chineseName": "奥术机械合金锭"
+        },
+        {
+          "name": "arcane_machine_alloy_nugget",
+          "englishName": "Arcane Machine Alloy Nugget",
+          "chineseName": "奥术机械合金粒"
+        },
+        {
+          "name": "arcane_machine_alloy_plate",
+          "englishName": "Arcane Machine Alloy Plate",
+          "chineseName": "奥术机械合金板"
+        },
+        {
+          "name": "arcane_machine_alloy_rod",
+          "englishName": "Arcane Machine Alloy Rod",
+          "chineseName": "奥术机械合金杆"
+        },
+        {
+          "name": "arcane_machine_alloy_wire",
+          "englishName": "Arcane Machine Alloy Wire",
+          "chineseName": "奥术机械合金线"
+        },
+        {
+          "name": "crushed_raw_arcane_machine_alloy",
+          "englishName": "Crushed Raw Arcane Machine Alloy",
+          "chineseName": "粉碎的粗奥术机械合金"
+        },
+        {
+          "name": "raw_arcane_machine_alloy",
+          "englishName": "Raw Arcane Machine Alloy",
+          "chineseName": "粗奥术机械合金"
+        }
+      ],
+      "blocks": [
+        {
+          "name": "arcane_machine_alloy_block",
+          "englishName": "Arcane Machine Alloy Block",
+          "chineseName": "奥术机械合金块"
+        },
+        {
+          "name": "arcane_machine_alloy_ore",
+          "englishName": "Arcane Machine Alloy Ore",
+          "chineseName": "奥术机械合金矿石"
+        },
+        {
+          "name": "raw_arcane_machine_alloy_block",
+          "englishName": "Raw Arcane Machine Alloy Block",
+          "chineseName": "粗奥术机械合金块"
+        }
+      ],
+      "fluidColor": "#2D1D53"
+    }
+  ]
+}

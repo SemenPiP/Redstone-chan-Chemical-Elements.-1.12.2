@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/energetic_alloy/energetic_alloy_ore"
+    }
+  }
+}

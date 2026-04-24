@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/stellar_alloy/raw_stellar_alloy_block"
+    }
+  }
+}

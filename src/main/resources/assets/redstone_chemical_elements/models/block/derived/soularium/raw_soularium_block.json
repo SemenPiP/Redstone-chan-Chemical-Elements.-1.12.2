@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "redstone_chemical_elements:blocks/derived/soularium/raw_soularium_block"
+  }
+}

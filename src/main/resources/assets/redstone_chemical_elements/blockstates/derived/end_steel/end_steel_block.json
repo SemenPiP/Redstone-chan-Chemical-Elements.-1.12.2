@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/end_steel/end_steel_block"
+    }
+  }
+}

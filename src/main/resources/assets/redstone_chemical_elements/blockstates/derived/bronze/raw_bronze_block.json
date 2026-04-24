@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/bronze/raw_bronze_block"
+    }
+  }
+}

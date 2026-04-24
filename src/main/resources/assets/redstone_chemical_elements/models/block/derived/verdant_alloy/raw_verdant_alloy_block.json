@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "redstone_chemical_elements:blocks/derived/verdant_alloy/raw_verdant_alloy_block"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/vibrant_alloy/raw_vibrant_alloy_block"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/machine_steel/raw_machine_steel_block"
+    }
+  }
+}

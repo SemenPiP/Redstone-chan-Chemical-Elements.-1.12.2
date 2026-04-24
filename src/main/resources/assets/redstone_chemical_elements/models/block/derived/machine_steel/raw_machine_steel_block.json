@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "redstone_chemical_elements:blocks/derived/machine_steel/raw_machine_steel_block"
+  }
+}

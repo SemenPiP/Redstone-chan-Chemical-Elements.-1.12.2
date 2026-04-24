@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/circuit_steel/circuit_steel_ore"
+    }
+  }
+}

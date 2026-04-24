@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "redstone_chemical_elements:items/derived/cryo_circuit_alloy/cryo_circuit_alloy_ingot"
+  }
+}

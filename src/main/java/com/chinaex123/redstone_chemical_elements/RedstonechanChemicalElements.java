@@ -1,6 +1,9 @@
 package com.chinaex123.redstone_chemical_elements;
 
+import com.chinaex123.redstone_chemical_elements.register.ElementCatalog;
+import com.chinaex123.redstone_chemical_elements.register.ElementFluidRegistry;
 import com.chinaex123.redstone_chemical_elements.register.ModRecipes;
+import net.minecraftforge.fluids.FluidRegistry;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
@@ -16,13 +19,18 @@ import org.apache.logging.log4j.Logger;
 public class RedstonechanChemicalElements {
     public static final String MODID = "redstone_chemical_elements";
     public static final String NAME = "Redstone-chan Chemical Elements";
-    public static final String VERSION = "1.1.1-1.12.2";
+    public static final String VERSION = "0.01";
 
     public static final Logger LOGGER = LogManager.getLogger(MODID);
 
+    static {
+        FluidRegistry.enableUniversalBucket();
+    }
+
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
-        LOGGER.info("{} preInit", NAME);
+        ElementFluidRegistry.bootstrap();
+        LOGGER.info("{} preInit, registered {} elemental fluids.", NAME, ElementCatalog.ELEMENTS.length);
     }
 
     @Mod.EventHandler

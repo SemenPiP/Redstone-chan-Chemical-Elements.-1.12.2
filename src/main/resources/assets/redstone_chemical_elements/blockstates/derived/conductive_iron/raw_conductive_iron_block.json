@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/conductive_iron/raw_conductive_iron_block"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/iridium_alloy/iridium_alloy_ore"
+    }
+  }
+}

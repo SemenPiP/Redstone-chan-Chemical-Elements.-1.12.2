@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/dark_steel/raw_dark_steel_block"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/verdant_alloy/raw_verdant_alloy_block"
+    }
+  }
+}

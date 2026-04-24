@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "redstone_chemical_elements:items/derived/vibrant_alloy/vibrant_alloy_plate"
+  }
+}

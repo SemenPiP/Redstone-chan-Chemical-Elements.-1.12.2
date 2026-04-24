@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "variant=0": {
+      "model": "redstone_chemical_elements:derived/plasma_signalum/plasma_signalum_ore"
+    },
+    "variant=1": {
+      "model": "redstone_chemical_elements:derived/cryo_circuit_alloy/cryo_circuit_alloy_ore"
+    },
+    "variant=2": {
+      "model": "redstone_chemical_elements:derived/mana_coil_alloy/mana_coil_alloy_ore"
+    },
+    "variant=3": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_ore"
+    },
+    "variant=4": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_ore"
+    },
+    "variant=5": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_ore"
+    },
+    "variant=6": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_ore"
+    },
+    "variant=7": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_ore"
+    },
+    "variant=8": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_ore"
+    },
+    "variant=9": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_ore"
+    },
+    "variant=10": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_ore"
+    },
+    "variant=11": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_ore"
+    },
+    "variant=12": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_ore"
+    },
+    "variant=13": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_ore"
+    },
+    "variant=14": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_ore"
+    },
+    "variant=15": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_ore"
+    }
+  }
+}

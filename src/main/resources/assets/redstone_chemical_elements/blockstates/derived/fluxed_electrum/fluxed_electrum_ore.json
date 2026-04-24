@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/fluxed_electrum/fluxed_electrum_ore"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "variant=0": {
+      "model": "redstone_chemical_elements:derived/plasma_signalum/plasma_signalum_block"
+    },
+    "variant=1": {
+      "model": "redstone_chemical_elements:derived/cryo_circuit_alloy/cryo_circuit_alloy_block"
+    },
+    "variant=2": {
+      "model": "redstone_chemical_elements:derived/mana_coil_alloy/mana_coil_alloy_block"
+    },
+    "variant=3": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_block"
+    },
+    "variant=4": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_block"
+    },
+    "variant=5": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_block"
+    },
+    "variant=6": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_block"
+    },
+    "variant=7": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_block"
+    },
+    "variant=8": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_block"
+    },
+    "variant=9": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_block"
+    },
+    "variant=10": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_block"
+    },
+    "variant=11": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_block"
+    },
+    "variant=12": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_block"
+    },
+    "variant=13": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_block"
+    },
+    "variant=14": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_block"
+    },
+    "variant=15": {
+      "model": "redstone_chemical_elements:derived/arcane_machine_alloy/arcane_machine_alloy_block"
+    }
+  }
+}

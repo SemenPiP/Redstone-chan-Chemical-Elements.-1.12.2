@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "redstone_chemical_elements:derived/soularium/raw_soularium_block"
+    }
+  }
+}
