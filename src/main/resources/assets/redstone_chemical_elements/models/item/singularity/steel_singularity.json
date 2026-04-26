@@ -1,7 +1,6 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "redstone_chemical_elements:items/singularity/steel_singularity",
-    "layer1": "redstone_chemical_elements:items/singularity/steel_singularity_overlay"
-  }
+    "parent":  "item/generated",
+    "textures":  {
+                     "layer0":  "redstone_chemical_elements:items/singularity/steel_singularity"
+                 }
 }
