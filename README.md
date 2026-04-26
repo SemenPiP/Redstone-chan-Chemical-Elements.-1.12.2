@@ -16,18 +16,17 @@ See [Material Introduction](docs/materials.md) for a structured description of e
 
 ## Tinkers' Construct Integration
 
-Optional CraftTweaker / ContentTweaker scripts for Tinkers' Construct integration are stored in [`scripts/`](scripts).
+Built-in optional Tinkers' Construct integration is now included in the mod source.
 
-- `00_rce_tconstruct_traits.zs`: registers custom traits.
-- `rce_tconstruct_base_materials.zs`: registers 120 element materials for Tinkers' Construct.
-- `rce_tconstruct_materials.zs`: registers 52 derived materials for Tinkers' Construct.
-
-Copy these files into your Minecraft instance `scripts` directory when building a modpack runtime environment.
+- If `tconstruct` is installed, Redstone-chan Chemical Elements registers its Tinkers' Construct traits, base materials, derived materials, and material melting/casting data automatically.
+- If `tconstruct` is not installed, the mod still loads normally.
+- Legacy CraftTweaker / ContentTweaker scripts under [`scripts/`](scripts) are kept as source/reference data only. Do not load them together with the built-in integration in a runtime instance, or duplicate registration will occur.
 
 ## Notes
 
 - The project is intended for modpack customization and does not force a fixed gameplay progression.
 - Some superheavy element Chinese characters are not supported by the vanilla Minecraft font. This port includes additional glyphs to improve display compatibility.
+- Local Gradle builds require a real Java 8 JDK. Set `JAVA8_HOME` or `JAVA_HOME_8` before running `gradlew build`.
 
 ---
 
