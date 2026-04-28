@@ -1,6 +1,7 @@
 {
-    "parent":  "item/generated",
-    "textures":  {
-                     "layer0":  "redstone_chemical_elements:items/singularity/brass_singularity"
-                 }
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "redstone_chemical_elements:items/singularity/brass_singularity",
+    "layer1": "redstone_chemical_elements:items/singularity/brass_singularity_overlay"
+  }
 }

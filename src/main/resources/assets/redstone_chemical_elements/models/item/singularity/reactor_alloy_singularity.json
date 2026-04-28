@@ -1,6 +1,7 @@
 {
-    "parent":  "item/generated",
-    "textures":  {
-                     "layer0":  "redstone_chemical_elements:items/singularity/reactor_alloy_singularity"
-                 }
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "redstone_chemical_elements:items/singularity/reactor_alloy_singularity",
+    "layer1": "redstone_chemical_elements:items/singularity/reactor_alloy_singularity_overlay"
+  }
 }

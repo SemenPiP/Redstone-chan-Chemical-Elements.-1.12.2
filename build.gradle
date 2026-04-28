@@ -22,7 +22,7 @@ plugins {
 
 apply plugin: 'com.gtnewhorizons.retrofuturagradle'
 
-version = "1.1.0"
+version = "1.5.0"
 group = "com.chinaex123.redstone_chemical_elements"
 
 base {
@@ -46,46 +46,7 @@ repositories {
     mavenCentral()
 }
 
-def resolveOptionalModJar(List<String> includes) {
-    List<File> searchRoots = []
-    if (project.hasProperty("mcModsDir")) {
-        searchRoots << file(project.property("mcModsDir"))
-    }
-
-    String envModsDir = System.getenv("MC_MODS_DIR")
-    if (envModsDir) {
-        searchRoots << file(envModsDir)
-    }
-
-    searchRoots << file("${rootDir}/../.minecraft/mods")
-
-    for (File root : searchRoots.findAll { it != null }.unique()) {
-        if (!root.exists() || !root.isDirectory()) {
-            continue
-        }
-
-        File match = fileTree(root).matching {
-            includes.each { include it }
-        }.files.sort { a, b -> a.name <=> b.name }.find { it.isFile() }
-
-        if (match != null) {
-            return match
-        }
-    }
-
-    return null
-}
-
-def mantleJar = resolveOptionalModJar(["*Mantle*1.12*.jar"])
-def tconstructJar = resolveOptionalModJar(["*TinkersAntique*1.12*.jar", "*TConstruct*1.12*.jar"])
-
 dependencies {
-    if (mantleJar != null) {
-        compileOnly files(mantleJar)
-    }
-    if (tconstructJar != null) {
-        compileOnly files(tconstructJar)
-    }
 }
 
 processResources {
@@ -113,13 +74,4 @@ jar {
 
 tasks.withType(JavaCompile).configureEach {
     options.encoding = 'UTF-8'
-    doFirst {
-        if (mantleJar == null || tconstructJar == null) {
-            throw new GradleException(
-                "Missing optional TConstruct compile jars. " +
-                "Set -PmcModsDir=<path to your 1.12.2 mods folder> or MC_MODS_DIR " +
-                "so build.gradle can find Mantle and TConstruct/TinkersAntique."
-            )
-        }
-    }
 }

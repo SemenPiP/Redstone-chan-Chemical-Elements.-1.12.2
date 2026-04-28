@@ -1,6 +1,7 @@
 {
-    "parent":  "item/generated",
-    "textures":  {
-                     "layer0":  "redstone_chemical_elements:items/singularity/moscovium_singularity"
-                 }
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "redstone_chemical_elements:items/singularity/moscovium_singularity",
+    "layer1": "redstone_chemical_elements:items/singularity/moscovium_singularity_overlay"
+  }
 }
